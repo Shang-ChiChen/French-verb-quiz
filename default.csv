@@ -1,0 +1,1502 @@
+index,french,english,audio,Semantic Domain,Bloom's Category,Aspectual Class
+1,être,to be,french_audio/etre.mp3,Existence/State,Knowledge,State
+2,avoir,to have,french_audio/avoir.mp3,Possession,Knowledge,State
+3,faire,to do/make,french_audio/faire.mp3,Creation/Change,Application,Activity
+4,dire,to say,french_audio/dire.mp3,Communication,Application,Activity
+5,aller,to go,french_audio/aller.mp3,Motion/Space,Knowledge,Activity
+6,pouvoir,to be able to,french_audio/pouvoir.mp3,Modality,Knowledge,State
+7,voir,to see,french_audio/voir.mp3,Perception,Knowledge,State
+8,savoir,to know (facts),french_audio/savoir.mp3,Cognition,Knowledge,State
+9,vouloir,to want,french_audio/vouloir.mp3,Emotion/Affect,Knowledge,State
+10,venir,to come,french_audio/venir.mp3,Motion/Space,Knowledge,Activity
+11,prendre,to take,french_audio/prendre.mp3,Possession,Application,Achievement
+12,devoir,to have to,french_audio/devoir.mp3,Modality,Knowledge,State
+13,falloir,to be necessary,french_audio/falloir.mp3,Modality,Knowledge,State
+14,passer,to pass,french_audio/passer.mp3,Motion/Space,Knowledge,Activity
+15,parler,to speak,french_audio/parler.mp3,Communication,Application,Activity
+16,mettre,to put,french_audio/mettre.mp3,Motion/Space,Application,Achievement
+17,regarder,to watch,french_audio/regarder.mp3,Perception,Application,Activity
+18,demander,to ask,french_audio/demander.mp3,Communication,Application,Activity
+19,trouver,to find,french_audio/trouver.mp3,Cognition,Knowledge,Achievement
+20,suivre,to follow,french_audio/suivre.mp3,Motion/Space,Application,Activity
+21,croire,to believe,french_audio/croire.mp3,Cognition,Knowledge,State
+22,donner,to give,french_audio/donner.mp3,Possession,Application,Achievement
+23,penser,to think,french_audio/penser.mp3,Cognition,Evaluation,State
+24,laisser,to let/leave,french_audio/laisser.mp3,Motion/Space,Knowledge,Activity
+25,aimer,to love/like,french_audio/aimer.mp3,Emotion/Affect,Knowledge,State
+26,rester,to stay,french_audio/rester.mp3,Existence/State,Knowledge,State
+27,tenir,to hold,french_audio/tenir.mp3,Possession,Application,State
+28,arriver,to arrive,french_audio/arriver.mp3,Motion/Space,Knowledge,Achievement
+29,entendre,to hear,french_audio/entendre.mp3,Perception,Knowledge,State
+30,sentir,to feel/smell,french_audio/sentir.mp3,Perception,Knowledge,State
+31,attendre,to wait,french_audio/attendre.mp3,Existence/State,Knowledge,Activity
+32,connaître,to know (people),french_audio/connaitre.mp3,Cognition,Knowledge,State
+33,sortir,to go out,french_audio/sortir.mp3,Motion/Space,Knowledge,Activity
+34,comprendre,to understand,french_audio/comprendre.mp3,Cognition,Comprehension,State
+35,sembler,to seem,french_audio/sembler.mp3,Existence/State,Knowledge,State
+36,devenir,to become,french_audio/devenir.mp3,Existence/State,Knowledge,Achievement
+37,ouvrir,to open,french_audio/ouvrir.mp3,Physical Contact,Application,Achievement
+38,revenir,to come back,french_audio/revenir.mp3,Motion/Space,Knowledge,Activity
+39,partir,to leave,french_audio/partir.mp3,Motion/Space,Knowledge,Achievement
+40,porter,to carry/wear,french_audio/porter.mp3,Motion/Space,Application,Activity
+41,rendre,to return (object),french_audio/rendre.mp3,Possession,Application,Achievement
+42,répondre,to answer,french_audio/repondre.mp3,Communication,Application,Activity
+43,appeler,to call,french_audio/appeler.mp3,Communication,Knowledge,Achievement
+44,arrêter,to stop,french_audio/arreter.mp3,Motion/Space,Application,Achievement
+45,vivre,to live,french_audio/vivre.mp3,Existence/State,Knowledge,State
+46,chercher,to look for,french_audio/chercher.mp3,Cognition,Analysis,Activity
+47,paraître,to appear,french_audio/paraitre.mp3,Existence/State,Knowledge,State
+48,tomber,to fall,french_audio/tomber.mp3,Motion/Space,Knowledge,Achievement
+49,lever,to raise/lift,french_audio/lever.mp3,Motion/Space,Application,Achievement
+50,commencer,to begin,french_audio/commencer.mp3,Aspectual,Knowledge,Achievement
+51,finir,to finish,french_audio/finir.mp3,Aspectual,Knowledge,Achievement
+52,retrouver,to find again,french_audio/retrouver.mp3,Cognition,Knowledge,Achievement
+53,poser,to place/put,french_audio/poser.mp3,Motion/Space,Application,Achievement
+54,monter,to go up,french_audio/monter.mp3,Motion/Space,Knowledge,Activity
+55,entrer,to enter,french_audio/entrer.mp3,Motion/Space,Knowledge,Achievement
+56,asseoir,to sit,french_audio/asseoir.mp3,Motion/Space,Application,Achievement
+57,mourir,to die,french_audio/mourir.mp3,Existence/State,Knowledge,Achievement
+58,tirer,to pull,french_audio/tirer.mp3,Physical Contact,Application,Activity
+59,perdre,to lose,french_audio/perdre.mp3,Possession,Knowledge,Achievement
+60,tourner,to turn,french_audio/tourner.mp3,Motion/Space,Application,Activity
+61,écrire,to write,french_audio/ecrire.mp3,Communication,Synthesis,Accomplishment
+62,reprendre,to take back,french_audio/reprendre.mp3,Possession,Application,Achievement
+63,jouer,to play,french_audio/jouer.mp3,Activity/Social,Application,Activity
+64,jeter,to throw,french_audio/jeter.mp3,Physical Contact,Application,Achievement
+65,marcher,to walk,french_audio/marcher.mp3,Motion/Space,Application,Activity
+66,lire,to read,french_audio/lire.mp3,Communication,Comprehension,Activity
+67,rire,to laugh,french_audio/rire.mp3,Bodily Function,Application,Activity
+68,quitter,to leave (place),french_audio/quitter.mp3,Motion/Space,Knowledge,Achievement
+69,écouter,to listen,french_audio/ecouter.mp3,Perception,Application,Activity
+70,descendre,to descend,french_audio/descendre.mp3,Motion/Space,Knowledge,Activity
+71,essayer,to try,french_audio/essayer.mp3,Cognition,Application,Activity
+72,retourner,to return,french_audio/retourner.mp3,Motion/Space,Knowledge,Activity
+73,pousser,to push,french_audio/pousser.mp3,Physical Contact,Application,Activity
+74,oublier,to forget,french_audio/oublier.mp3,Cognition,Knowledge,Achievement
+75,apprendre,to learn,french_audio/apprendre.mp3,Cognition,Knowledge,Accomplishment
+76,servir,to serve,french_audio/servir.mp3,Activity/Social,Application,Activity
+77,continuer,to continue,french_audio/continuer.mp3,Aspectual,Knowledge,Activity
+78,manger,to eat,french_audio/manger.mp3,Bodily Function,Application,Accomplishment
+79,rentrer,to return home,french_audio/rentrer.mp3,Motion/Space,Knowledge,Achievement
+80,montrer,to show,french_audio/montrer.mp3,Communication,Application,Activity
+81,boire,to drink,french_audio/boire.mp3,Bodily Function,Application,Accomplishment
+82,courir,to run,french_audio/courir.mp3,Motion/Space,Application,Activity
+83,sourire,to smile,french_audio/sourire.mp3,Bodily Function,Application,Activity
+84,raconter,to tell/narrate,french_audio/raconter.mp3,Communication,Synthesis,Accomplishment
+85,dormir,to sleep,french_audio/dormir.mp3,Bodily Function,Knowledge,Activity
+86,garder,to keep,french_audio/garder.mp3,Possession,Knowledge,State
+87,changer,to change,french_audio/changer.mp3,Creation/Change,Analysis,Achievement
+88,imaginer,to imagine,french_audio/imaginer.mp3,Cognition,Synthesis,Activity
+89,crier,to shout,french_audio/crier.mp3,Communication,Application,Activity
+90,expliquer,to explain,french_audio/expliquer.mp3,Communication,Comprehension,Activity
+91,apercevoir,to glimpse,french_audio/apercevoir.mp3,Perception,Knowledge,Achievement
+92,glisser,to slide,french_audio/glisser.mp3,Motion/Space,Application,Activity
+93,reconnaître,to recognize,french_audio/reconnaitre.mp3,Cognition,Knowledge,Achievement
+94,ajouter,to add,french_audio/ajouter.mp3,Creation/Change,Application,Achievement
+95,recevoir,to receive,french_audio/recevoir.mp3,Possession,Knowledge,Achievement
+96,occuper,to occupy,french_audio/occuper.mp3,Existence/State,Application,State
+97,agir,to act,french_audio/agir.mp3,Activity/Social,Application,Activity
+98,tendre,to stretch/reach,french_audio/tendre.mp3,Physical Contact,Application,Activity
+99,souvenir,to remember,french_audio/souvenir.mp3,Cognition,Knowledge,State
+100,décider,to decide,french_audio/decider.mp3,Cognition,Evaluation,Achievement
+101,offrir,to offer,french_audio/offrir.mp3,Possession,Application,Achievement
+102,serrer,to squeeze/tighten,french_audio/serrer.mp3,Physical Contact,Application,Activity
+103,compter,to count/rely,french_audio/compter.mp3,Cognition,Application,Activity
+104,travailler,to work,french_audio/travailler.mp3,Activity/Social,Application,Activity
+105,remettre,to put back,french_audio/remettre.mp3,Motion/Space,Application,Achievement
+106,rappeler,to remind/recall,french_audio/rappeler.mp3,Cognition,Knowledge,Achievement
+107,traverser,to cross,french_audio/traverser.mp3,Motion/Space,Application,Accomplishment
+108,répéter,to repeat,french_audio/repeter.mp3,Communication,Knowledge,Activity
+109,découvrir,to discover,french_audio/decouvrir.mp3,Cognition,Knowledge,Achievement
+110,manquer,to miss/lack,french_audio/manquer.mp3,Existence/State,Knowledge,State
+111,fermer,to close,french_audio/fermer.mp3,Physical Contact,Application,Achievement
+112,coucher,to put to bed,french_audio/coucher.mp3,Bodily Function,Application,Achievement
+113,approcher,to approach,french_audio/approcher.mp3,Motion/Space,Application,Activity
+114,avancer,to advance,french_audio/avancer.mp3,Motion/Space,Application,Activity
+115,toucher,to touch,french_audio/toucher.mp3,Physical Contact,Application,Achievement
+116,rencontrer,to meet,french_audio/rencontrer.mp3,Activity/Social,Knowledge,Achievement
+117,permettre,to permit,french_audio/permettre.mp3,Communication,Application,State
+118,disparaître,to disappear,french_audio/disparaitre.mp3,Existence/State,Knowledge,Achievement
+119,battre,to beat/hit,french_audio/battre.mp3,Physical Contact,Application,Activity
+120,cacher,to hide,french_audio/cacher.mp3,Physical Contact,Application,Achievement
+121,gagner,to win/earn,french_audio/gagner.mp3,Possession,Knowledge,Achievement
+122,cesser,to cease,french_audio/cesser.mp3,Aspectual,Knowledge,Achievement
+123,envoyer,to send,french_audio/envoyer.mp3,Communication,Application,Achievement
+124,valoir,to be worth,french_audio/valoir.mp3,Existence/State,Evaluation,State
+125,importer,to matter,french_audio/importer.mp3,Existence/State,Knowledge,State
+126,foutre,to do/shove (slang),french_audio/foutre.mp3,Creation/Change,Application,Activity
+127,empêcher,to prevent,french_audio/empecher.mp3,Activity/Social,Application,State
+128,tuer,to kill,french_audio/tuer.mp3,Physical Contact,Application,Achievement
+129,frapper,to hit/knock,french_audio/frapper.mp3,Physical Contact,Application,Achievement
+130,lancer,to throw/launch,french_audio/lancer.mp3,Physical Contact,Application,Achievement
+131,rouler,to roll/drive,french_audio/rouler.mp3,Motion/Space,Application,Activity
+132,pleurer,to cry,french_audio/pleurer.mp3,Bodily Function,Application,Activity
+133,installer,to install,french_audio/installer.mp3,Physical Contact,Application,Achievement
+134,remonter,to go back up,french_audio/remonter.mp3,Motion/Space,Knowledge,Activity
+135,suffire,to suffice,french_audio/suffire.mp3,Existence/State,Knowledge,State
+136,apporter,to bring,french_audio/apporter.mp3,Possession,Application,Achievement
+137,apparaître,to appear (suddenly),french_audio/apparaitre.mp3,Existence/State,Knowledge,Achievement
+138,aider,to help,french_audio/aider.mp3,Activity/Social,Application,Activity
+139,ressembler,to resemble,french_audio/ressembler.mp3,Existence/State,Analysis,State
+140,bouger,to move,french_audio/bouger.mp3,Motion/Space,Application,Activity
+141,parvenir,to reach/succeed,french_audio/parvenir.mp3,Motion/Space,Knowledge,Achievement
+142,pencher,to lean/tilt,french_audio/pencher.mp3,Physical Contact,Application,Activity
+143,oser,to dare,french_audio/oser.mp3,Cognition,Application,State
+144,préparer,to prepare,french_audio/preparer.mp3,Creation/Change,Application,Accomplishment
+145,refuser,to refuse,french_audio/refuser.mp3,Communication,Evaluation,Achievement
+146,payer,to pay,french_audio/payer.mp3,Possession,Application,Achievement
+147,acheter,to buy,french_audio/acheter.mp3,Possession,Application,Achievement
+148,exister,to exist,french_audio/exister.mp3,Existence/State,Knowledge,State
+149,accepter,to accept,french_audio/accepter.mp3,Communication,Evaluation,Achievement
+150,conduire,to drive/lead,french_audio/conduire.mp3,Motion/Space,Application,Activity
+151,retenir,to retain/hold back,french_audio/retenir.mp3,Possession,Application,Activity
+152,remarquer,to notice,french_audio/remarquer.mp3,Perception,Knowledge,Achievement
+153,fixer,to fix/stare,french_audio/fixer.mp3,Perception,Application,Activity
+154,couper,to cut,french_audio/couper.mp3,Physical Contact,Application,Achievement
+155,taire,to keep quiet,french_audio/taire.mp3,Communication,Application,State
+156,plaire,to please,french_audio/plaire.mp3,Emotion/Affect,Knowledge,State
+157,revoir,to see again,french_audio/revoir.mp3,Perception,Knowledge,Achievement
+158,mener,to lead,french_audio/mener.mp3,Motion/Space,Application,Activity
+159,embrasser,to kiss/embrace,french_audio/embrasser.mp3,Physical Contact,Application,Achievement
+160,saisir,to seize,french_audio/saisir.mp3,Possession,Application,Achievement
+161,présenter,to present,french_audio/presenter.mp3,Communication,Application,Activity
+162,espérer,to hope,french_audio/esperer.mp3,Emotion/Affect,Knowledge,State
+163,rejoindre,to join,french_audio/rejoindre.mp3,Motion/Space,Knowledge,Achievement
+164,sauter,to jump,french_audio/sauter.mp3,Motion/Space,Application,Achievement
+165,choisir,to choose,french_audio/choisir.mp3,Cognition,Evaluation,Achievement
+166,annoncer,to announce,french_audio/annoncer.mp3,Communication,Application,Achievement
+167,couvrir,to cover,french_audio/couvrir.mp3,Physical Contact,Application,Achievement
+168,préférer,to prefer,french_audio/preferer.mp3,Emotion/Affect,Evaluation,State
+169,éloigner,to move away,french_audio/eloigner.mp3,Motion/Space,Application,Activity
+170,échapper,to escape,french_audio/echapper.mp3,Motion/Space,Knowledge,Achievement
+171,demeurer,to dwell/stay,french_audio/demeurer.mp3,Existence/State,Knowledge,State
+172,abandonner,to abandon,french_audio/abandonner.mp3,Activity/Social,Knowledge,Achievement
+173,rêver,to dream,french_audio/rever.mp3,Cognition,Synthesis,Activity
+174,éprouver,to feel/test,french_audio/eprouver.mp3,Emotion/Affect,Analysis,State
+175,tenter,to attempt,french_audio/tenter.mp3,Cognition,Application,Activity
+176,atteindre,to reach,french_audio/atteindre.mp3,Motion/Space,Knowledge,Achievement
+177,assurer,to assure,french_audio/assurer.mp3,Communication,Application,State
+178,appuyer,to press/support,french_audio/appuyer.mp3,Physical Contact,Application,Activity
+179,chanter,to sing,french_audio/chanter.mp3,Communication,Synthesis,Activity
+180,réveiller,to wake up,french_audio/reveiller.mp3,Bodily Function,Application,Achievement
+181,relever,to raise up,french_audio/relever.mp3,Motion/Space,Application,Achievement
+182,accompagner,to accompany,french_audio/accompagner.mp3,Activity/Social,Application,Activity
+183,murmurer,to whisper,french_audio/murmurer.mp3,Communication,Application,Activity
+184,traîner,to drag,french_audio/trainer.mp3,Motion/Space,Application,Activity
+185,hésiter,to hesitate,french_audio/hesiter.mp3,Cognition,Evaluation,Activity
+186,charger,to load,french_audio/charger.mp3,Physical Contact,Application,Achievement
+187,réussir,to succeed,french_audio/reussir.mp3,Cognition,Knowledge,Achievement
+188,emporter,to take away,french_audio/emporter.mp3,Possession,Application,Achievement
+189,couler,to flow/sink,french_audio/couler.mp3,Motion/Space,Knowledge,Activity
+190,amuser,to amuse,french_audio/amuser.mp3,Emotion/Affect,Application,Activity
+191,proposer,to propose,french_audio/proposer.mp3,Communication,Synthesis,Achievement
+192,naître,to be born,french_audio/naitre.mp3,Existence/State,Knowledge,Achievement
+193,souffrir,to suffer,french_audio/souffrir.mp3,Emotion/Affect,Knowledge,State
+194,intéresser,to interest,french_audio/interesser.mp3,Emotion/Affect,Knowledge,State
+195,surprendre,to surprise,french_audio/surprendre.mp3,Emotion/Affect,Knowledge,Achievement
+196,étonner,to astonish,french_audio/etonner.mp3,Emotion/Affect,Knowledge,Achievement
+197,secouer,to shake,french_audio/secouer.mp3,Physical Contact,Application,Activity
+198,allumer,to light/turn on,french_audio/allumer.mp3,Physical Contact,Application,Achievement
+199,observer,to observe,french_audio/observer.mp3,Perception,Analysis,Activity
+200,baisser,to lower,french_audio/baisser.mp3,Motion/Space,Application,Activity
+201,soulever,to lift,french_audio/soulever.mp3,Physical Contact,Application,Achievement
+202,arracher,to tear out,french_audio/arracher.mp3,Physical Contact,Application,Achievement
+203,mêler,to mix,french_audio/meler.mp3,Creation/Change,Application,Activity
+204,habiter,to live in,french_audio/habiter.mp3,Existence/State,Knowledge,State
+205,deviner,to guess,french_audio/deviner.mp3,Cognition,Evaluation,Achievement
+206,entourer,to surround,french_audio/entourer.mp3,Motion/Space,Knowledge,State
+207,étendre,to stretch/spread,french_audio/etendre.mp3,Physical Contact,Application,Activity
+208,éviter,to avoid,french_audio/eviter.mp3,Activity/Social,Application,State
+209,former,to form,french_audio/former.mp3,Creation/Change,Synthesis,Accomplishment
+210,séparer,to separate,french_audio/separer.mp3,Physical Contact,Analysis,Achievement
+211,ramener,to bring back,french_audio/ramener.mp3,Motion/Space,Application,Achievement
+212,ignorer,to ignore/be unaware,french_audio/ignorer.mp3,Cognition,Knowledge,State
+213,craindre,to fear,french_audio/craindre.mp3,Emotion/Affect,Knowledge,State
+214,obliger,to oblige,french_audio/obliger.mp3,Activity/Social,Application,State
+215,coller,to stick/glue,french_audio/coller.mp3,Physical Contact,Application,Achievement
+216,poursuivre,to pursue,french_audio/poursuivre.mp3,Motion/Space,Application,Activity
+217,prier,to pray/beg,french_audio/prier.mp3,Communication,Application,Activity
+218,emmener,to take along,french_audio/emmener.mp3,Motion/Space,Application,Activity
+219,songer,to daydream/think,french_audio/songer.mp3,Cognition,Synthesis,Activity
+220,enfoncer,to sink/push in,french_audio/enfoncer.mp3,Physical Contact,Application,Achievement
+221,brûler,to burn,french_audio/bruler.mp3,Creation/Change,Application,Accomplishment
+222,élever,to raise/rear,french_audio/elever.mp3,Activity/Social,Application,Accomplishment
+223,respirer,to breathe,french_audio/respirer.mp3,Bodily Function,Knowledge,Activity
+224,placer,to place,french_audio/placer.mp3,Motion/Space,Application,Achievement
+225,durer,to last,french_audio/durer.mp3,Existence/State,Knowledge,State
+226,promettre,to promise,french_audio/promettre.mp3,Communication,Application,Achievement
+227,marquer,to mark,french_audio/marquer.mp3,Physical Contact,Application,Achievement
+228,entraîner,to lead/train,french_audio/entrainer.mp3,Activity/Social,Application,Activity
+229,éclater,to burst/explode,french_audio/eclater.mp3,Creation/Change,Knowledge,Achievement
+230,terminer,to finish,french_audio/terminer.mp3,Aspectual,Knowledge,Achievement
+231,accrocher,to hang/hook,french_audio/accrocher.mp3,Physical Contact,Application,Achievement
+232,dresser,to set up/train,french_audio/dresser.mp3,Creation/Change,Application,Accomplishment
+233,risquer,to risk,french_audio/risquer.mp3,Cognition,Evaluation,State
+234,sauver,to save,french_audio/sauver.mp3,Activity/Social,Application,Achievement
+235,maintenir,to maintain,french_audio/maintenir.mp3,Existence/State,Application,State
+236,retirer,to withdraw/remove,french_audio/retirer.mp3,Motion/Space,Application,Achievement
+237,adresser,to address,french_audio/adresser.mp3,Communication,Application,Activity
+238,promener,to walk/stroll,french_audio/promener.mp3,Motion/Space,Application,Activity
+239,tromper,to deceive,french_audio/tromper.mp3,Communication,Application,Achievement
+240,juger,to judge,french_audio/juger.mp3,Cognition,Evaluation,Achievement
+241,avouer,to confess,french_audio/avouer.mp3,Communication,Application,Achievement
+242,diriger,to direct/lead,french_audio/diriger.mp3,Activity/Social,Application,Activity
+243,engager,to engage/hire,french_audio/engager.mp3,Activity/Social,Application,Achievement
+244,trembler,to tremble,french_audio/trembler.mp3,Bodily Function,Knowledge,Activity
+245,amener,to bring (someone),french_audio/amener.mp3,Motion/Space,Application,Activity
+246,casser,to break,french_audio/casser.mp3,Physical Contact,Application,Achievement
+247,vendre,to sell,french_audio/vendre.mp3,Possession,Application,Achievement
+248,danser,to dance,french_audio/danser.mp3,Activity/Social,Application,Activity
+249,sonner,to ring,french_audio/sonner.mp3,Perception,Knowledge,Achievement
+250,écarter,to push aside,french_audio/ecarter.mp3,Motion/Space,Application,Achievement
+251,appartenir,to belong,french_audio/appartenir.mp3,Possession,Knowledge,State
+252,refermer,to close again,french_audio/refermer.mp3,Physical Contact,Application,Achievement
+253,profiter,to benefit/take advantage,french_audio/profiter.mp3,Activity/Social,Evaluation,Activity
+254,défendre,to defend/forbid,french_audio/defendre.mp3,Communication,Evaluation,State
+255,écraser,to crush,french_audio/ecraser.mp3,Physical Contact,Application,Achievement
+256,allonger,to lengthen/lie down,french_audio/allonger.mp3,Motion/Space,Application,Activity
+257,lâcher,to let go,french_audio/lacher.mp3,Physical Contact,Application,Achievement
+258,agiter,to shake/wave,french_audio/agiter.mp3,Physical Contact,Application,Activity
+259,réfléchir,to reflect/think,french_audio/reflechir.mp3,Cognition,Analysis,Activity
+260,hurler,to yell,french_audio/hurler.mp3,Communication,Application,Activity
+261,voler,to fly/steal,french_audio/voler.mp3,Motion/Space,Application,Activity
+262,filer,to dash/spin,french_audio/filer.mp3,Motion/Space,Application,Activity
+263,douter,to doubt,french_audio/douter.mp3,Cognition,Evaluation,State
+264,repartir,to set off again,french_audio/repartir.mp3,Motion/Space,Knowledge,Achievement
+265,considérer,to consider,french_audio/considerer.mp3,Cognition,Evaluation,State
+266,pénétrer,to penetrate,french_audio/penetrer.mp3,Motion/Space,Knowledge,Achievement
+267,prêter,to lend,french_audio/preter.mp3,Possession,Application,Achievement
+268,plonger,to dive,french_audio/plonger.mp3,Motion/Space,Application,Achievement
+269,prononcer,to pronounce,french_audio/prononcer.mp3,Communication,Application,Activity
+270,éclairer,to light up,french_audio/eclairer.mp3,Perception,Application,Achievement
+271,représenter,to represent,french_audio/representer.mp3,Communication,Application,State
+272,livrer,to deliver,french_audio/livrer.mp3,Possession,Application,Achievement
+273,fumer,to smoke,french_audio/fumer.mp3,Bodily Function,Application,Activity
+274,reposer,to rest,french_audio/reposer.mp3,Bodily Function,Knowledge,Activity
+275,caresser,to stroke/pet,french_audio/caresser.mp3,Physical Contact,Application,Activity
+276,souffler,to blow,french_audio/souffler.mp3,Physical Contact,Application,Activity
+277,recommencer,to start again,french_audio/recommencer.mp3,Aspectual,Knowledge,Achievement
+278,disposer,to arrange/have at disposal,french_audio/disposer.mp3,Possession,Application,State
+279,inviter,to invite,french_audio/inviter.mp3,Activity/Social,Application,Achievement
+280,posséder,to possess,french_audio/posseder.mp3,Possession,Knowledge,State
+281,souhaiter,to wish,french_audio/souhaiter.mp3,Emotion/Affect,Knowledge,State
+282,jurer,to swear,french_audio/jurer.mp3,Communication,Application,Achievement
+283,crever,to burst/die (slang),french_audio/crever.mp3,Creation/Change,Knowledge,Achievement
+284,achever,to complete,french_audio/achever.mp3,Aspectual,Knowledge,Achievement
+285,remplir,to fill,french_audio/remplir.mp3,Physical Contact,Application,Accomplishment
+286,briller,to shine,french_audio/briller.mp3,Perception,Knowledge,State
+287,supporter,to endure/support,french_audio/supporter.mp3,Emotion/Affect,Application,State
+288,obtenir,to obtain,french_audio/obtenir.mp3,Possession,Knowledge,Achievement
+289,commander,to order,french_audio/commander.mp3,Communication,Application,Activity
+290,peindre,to paint,french_audio/peindre.mp3,Creation/Change,Synthesis,Accomplishment
+291,dessiner,to draw,french_audio/dessiner.mp3,Creation/Change,Synthesis,Accomplishment
+292,partager,to share,french_audio/partager.mp3,Possession,Application,Activity
+293,enlever,to remove,french_audio/enlever.mp3,Motion/Space,Application,Achievement
+294,dépasser,to exceed/overtake,french_audio/depasser.mp3,Motion/Space,Knowledge,Achievement
+295,imposer,to impose,french_audio/imposer.mp3,Activity/Social,Application,Achievement
+296,prévoir,to foresee,french_audio/prevoir.mp3,Cognition,Evaluation,State
+297,éteindre,to extinguish,french_audio/eteindre.mp3,Physical Contact,Application,Achievement
+298,fuir,to flee,french_audio/fuir.mp3,Motion/Space,Knowledge,Activity
+299,croiser,to cross/pass,french_audio/croiser.mp3,Motion/Space,Application,Achievement
+300,regretter,to regret,french_audio/regretter.mp3,Emotion/Affect,Evaluation,State
+301,planter,to plant,french_audio/planter.mp3,Creation/Change,Application,Achievement
+302,arranger,to arrange,french_audio/arranger.mp3,Creation/Change,Application,Accomplishment
+303,forcer,to force,french_audio/forcer.mp3,Activity/Social,Application,Activity
+304,attirer,to attract,french_audio/attirer.mp3,Motion/Space,Knowledge,Activity
+305,ramasser,to pick up,french_audio/ramasser.mp3,Physical Contact,Application,Achievement
+306,claquer,to slam/snap,french_audio/claquer.mp3,Perception,Knowledge,Achievement
+307,distinguer,to distinguish,french_audio/distinguer.mp3,Cognition,Analysis,Achievement
+308,convenir,to suit/agree,french_audio/convenir.mp3,Communication,Evaluation,State
+309,prévenir,to warn/prevent,french_audio/prevenir.mp3,Communication,Application,Achievement
+310,évoquer,to evoke,french_audio/evoquer.mp3,Communication,Application,Activity
+311,surgir,to arise/loom,french_audio/surgir.mp3,Existence/State,Knowledge,Achievement
+312,déclarer,to declare,french_audio/declarer.mp3,Communication,Application,Achievement
+313,endormir,to fall asleep,french_audio/endormir.mp3,Bodily Function,Knowledge,Achievement
+314,interroger,to question,french_audio/interroger.mp3,Communication,Analysis,Activity
+315,exprimer,to express,french_audio/exprimer.mp3,Communication,Synthesis,Activity
+316,protéger,to protect,french_audio/proteger.mp3,Activity/Social,Application,State
+317,hausser,to raise/shrug,french_audio/hausser.mp3,Motion/Space,Application,Achievement
+318,gêner,to bother,french_audio/gener.mp3,Emotion/Affect,Application,State
+319,attacher,to attach,french_audio/attacher.mp3,Physical Contact,Application,Achievement
+320,presser,to press/hurry,french_audio/presser.mp3,Physical Contact,Application,Activity
+321,inquiéter,to worry,french_audio/inquieter.mp3,Emotion/Affect,Knowledge,State
+322,peser,to weigh,french_audio/peser.mp3,Existence/State,Evaluation,State
+323,vider,to empty,french_audio/vider.mp3,Physical Contact,Application,Achievement
+324,attaquer,to attack,french_audio/attaquer.mp3,Activity/Social,Application,Activity
+325,effacer,to erase,french_audio/effacer.mp3,Physical Contact,Application,Achievement
+326,ressentir,to feel (emotion),french_audio/ressentir.mp3,Emotion/Affect,Knowledge,State
+327,causer,to cause/chat,french_audio/causer.mp3,Communication,Application,Activity
+328,traiter,to treat/process,french_audio/traiter.mp3,Activity/Social,Analysis,Activity
+329,enfermer,to lock up,french_audio/enfermer.mp3,Physical Contact,Application,Achievement
+330,inventer,to invent,french_audio/inventer.mp3,Creation/Change,Synthesis,Accomplishment
+331,laver,to wash,french_audio/laver.mp3,Physical Contact,Application,Accomplishment
+332,confier,to entrust,french_audio/confier.mp3,Communication,Application,Achievement
+333,recouvrir,to cover,french_audio/recouvrir.mp3,Physical Contact,Application,Accomplishment
+334,reculer,to back up,french_audio/reculer.mp3,Motion/Space,Knowledge,Activity
+335,produire,to produce,french_audio/produire.mp3,Creation/Change,Synthesis,Accomplishment
+336,admirer,to admire,french_audio/admirer.mp3,Emotion/Affect,Evaluation,State
+337,rassurer,to reassure,french_audio/rassurer.mp3,Communication,Application,Achievement
+338,ranger,to tidy/put away,french_audio/ranger.mp3,Motion/Space,Application,Accomplishment
+339,chasser,to hunt/drive away,french_audio/chasser.mp3,Activity/Social,Application,Activity
+340,taper,to hit/type,french_audio/taper.mp3,Physical Contact,Application,Activity
+341,accorder,to grant/tune,french_audio/accorder.mp3,Communication,Application,Achievement
+342,plaindre,to pity,french_audio/plaindre.mp3,Emotion/Affect,Evaluation,State
+343,balancer,to swing/throw away,french_audio/balancer.mp3,Motion/Space,Application,Activity
+344,saluer,to greet,french_audio/saluer.mp3,Communication,Application,Achievement
+345,prétendre,to claim,french_audio/pretendre.mp3,Communication,Application,Activity
+346,habiller,to dress,french_audio/habiller.mp3,Bodily Function,Application,Accomplishment
+347,insister,to insist,french_audio/insister.mp3,Communication,Application,Activity
+348,téléphoner,to telephone,french_audio/telephoner.mp3,Communication,Application,Activity
+349,précipiter,to hurl/rush,french_audio/precipiter.mp3,Motion/Space,Application,Achievement
+350,désigner,to designate,french_audio/designer.mp3,Communication,Knowledge,Achievement
+351,détacher,to detach,french_audio/detacher.mp3,Physical Contact,Application,Achievement
+352,soupirer,to sigh,french_audio/soupirer.mp3,Bodily Function,Knowledge,Activity
+353,avaler,to swallow,french_audio/avaler.mp3,Bodily Function,Application,Achievement
+354,marier,to marry,french_audio/marier.mp3,Activity/Social,Knowledge,Achievement
+355,piquer,to sting/prick,french_audio/piquer.mp3,Physical Contact,Knowledge,Achievement
+356,franchir,to cross/break through,french_audio/franchir.mp3,Motion/Space,Knowledge,Achievement
+357,nourrir,to feed,french_audio/nourrir.mp3,Bodily Function,Application,Accomplishment
+358,renoncer,to renounce,french_audio/renoncer.mp3,Cognition,Evaluation,Achievement
+359,contempler,to contemplate,french_audio/contempler.mp3,Perception,Analysis,Activity
+360,redresser,to straighten,french_audio/redresser.mp3,Physical Contact,Application,Achievement
+361,interrompre,to interrupt,french_audio/interrompre.mp3,Communication,Application,Achievement
+362,creuser,to dig,french_audio/creuser.mp3,Physical Contact,Application,Accomplishment
+363,flotter,to float,french_audio/flotter.mp3,Motion/Space,Knowledge,State
+364,vêtir,to clothe,french_audio/vetir.mp3,Bodily Function,Application,Accomplishment
+365,affirmer,to affirm,french_audio/affirmer.mp3,Communication,Application,Activity
+366,repousser,to push back,french_audio/repousser.mp3,Motion/Space,Application,Achievement
+367,étaler,to spread out,french_audio/etaler.mp3,Physical Contact,Application,Activity
+368,remuer,to stir/move,french_audio/remuer.mp3,Physical Contact,Application,Activity
+369,déposer,to deposit/put down,french_audio/deposer.mp3,Motion/Space,Application,Achievement
+370,détester,to hate,french_audio/detester.mp3,Emotion/Affect,Knowledge,State
+371,supposer,to suppose,french_audio/supposer.mp3,Cognition,Evaluation,State
+372,rapporter,to bring back/report,french_audio/rapporter.mp3,Communication,Application,Achievement
+373,nommer,to name,french_audio/nommer.mp3,Communication,Knowledge,Achievement
+374,assister,to attend/assist,french_audio/assister.mp3,Activity/Social,Application,Activity
+375,désirer,to desire,french_audio/desirer.mp3,Emotion/Affect,Knowledge,State
+376,excuser,to excuse,french_audio/excuser.mp3,Communication,Application,Achievement
+377,parcourir,to travel across,french_audio/parcourir.mp3,Motion/Space,Application,Activity
+378,briser,to shatter,french_audio/briser.mp3,Physical Contact,Application,Achievement
+379,céder,to give in/yield,french_audio/ceder.mp3,Activity/Social,Application,Achievement
+380,soutenir,to support,french_audio/soutenir.mp3,Activity/Social,Application,State
+381,transformer,to transform,french_audio/transformer.mp3,Creation/Change,Synthesis,Accomplishment
+382,remplacer,to replace,french_audio/remplacer.mp3,Creation/Change,Application,Achievement
+383,contenter,to satisfy,french_audio/contenter.mp3,Emotion/Affect,Application,State
+384,révéler,to reveal,french_audio/reveler.mp3,Communication,Knowledge,Achievement
+385,exiger,to demand,french_audio/exiger.mp3,Communication,Application,Activity
+386,dîner,to dine,french_audio/diner.mp3,Bodily Function,Application,Activity
+387,étouffer,to stifle/choke,french_audio/etouffer.mp3,Physical Contact,Knowledge,Achievement
+388,admettre,to admit,french_audio/admettre.mp3,Communication,Evaluation,Achievement
+389,épouser,to marry/espouse,french_audio/epouser.mp3,Activity/Social,Knowledge,Achievement
+390,ennuyer,to bore/annoy,french_audio/ennuyer.mp3,Emotion/Affect,Application,State
+391,contenir,to contain,french_audio/contenir.mp3,Existence/State,Knowledge,State
+392,discuter,to discuss,french_audio/discuter.mp3,Communication,Analysis,Activity
+393,retomber,to fall again,french_audio/retomber.mp3,Motion/Space,Knowledge,Achievement
+394,échanger,to exchange,french_audio/echanger.mp3,Possession,Application,Achievement
+395,dégager,to clear/release,french_audio/degager.mp3,Motion/Space,Application,Achievement
+396,pendre,to hang,french_audio/pendre.mp3,Motion/Space,Application,Achievement
+397,établir,to establish,french_audio/etablir.mp3,Creation/Change,Application,Accomplishment
+398,envahir,to invade,french_audio/envahir.mp3,Motion/Space,Knowledge,Achievement
+399,constater,to note/notice,french_audio/constater.mp3,Cognition,Knowledge,Achievement
+400,figurer,to figure/appear,french_audio/figurer.mp3,Existence/State,Knowledge,State
+401,réunir,to gather/unite,french_audio/reunir.mp3,Activity/Social,Application,Achievement
+402,fournir,to provide,french_audio/fournir.mp3,Possession,Application,Activity
+403,signer,to sign,french_audio/signer.mp3,Communication,Application,Achievement
+404,attraper,to catch,french_audio/attraper.mp3,Physical Contact,Application,Achievement
+405,éveiller,to awaken,french_audio/eveiller.mp3,Bodily Function,Knowledge,Achievement
+406,accomplir,to accomplish,french_audio/accomplir.mp3,Aspectual,Application,Accomplishment
+407,conserver,to keep/preserve,french_audio/conserver.mp3,Possession,Knowledge,State
+408,essuyer,to wipe,french_audio/essuyer.mp3,Physical Contact,Application,Activity
+409,détourner,to divert,french_audio/detourner.mp3,Motion/Space,Application,Achievement
+410,créer,to create,french_audio/creer.mp3,Creation/Change,Synthesis,Accomplishment
+411,accueillir,to welcome,french_audio/accueillir.mp3,Activity/Social,Application,Achievement
+412,rapprocher,to bring closer,french_audio/rapprocher.mp3,Motion/Space,Application,Achievement
+413,mériter,to deserve,french_audio/meriter.mp3,Emotion/Affect,Evaluation,State
+414,remercier,to thank,french_audio/remercier.mp3,Communication,Application,Achievement
+415,constituer,to constitute,french_audio/constituer.mp3,Existence/State,Analysis,State
+416,surveiller,to monitor,french_audio/surveiller.mp3,Perception,Analysis,Activity
+417,interdire,to forbid,french_audio/interdire.mp3,Communication,Application,State
+418,efforcer,to try hard,french_audio/efforcer.mp3,Cognition,Application,Activity
+419,régler,to adjust/settle,french_audio/regler.mp3,Creation/Change,Application,Accomplishment
+420,indiquer,to indicate,french_audio/indiquer.mp3,Communication,Knowledge,Achievement
+421,verser,to pour,french_audio/verser.mp3,Physical Contact,Application,Activity
+422,confondre,to confuse,french_audio/confondre.mp3,Cognition,Analysis,State
+423,subir,to undergo/suffer,french_audio/subir.mp3,Emotion/Affect,Knowledge,State
+424,déchirer,to tear,french_audio/dechirer.mp3,Physical Contact,Application,Achievement
+425,rassembler,to gather,french_audio/rassembler.mp3,Activity/Social,Application,Achievement
+426,rompre,to break (off),french_audio/rompre.mp3,Physical Contact,Application,Achievement
+427,construire,to build,french_audio/construire.mp3,Creation/Change,Synthesis,Accomplishment
+428,menacer,to threaten,french_audio/menacer.mp3,Communication,Application,Activity
+429,prouver,to prove,french_audio/prouver.mp3,Cognition,Evaluation,Achievement
+430,détruire,to destroy,french_audio/detruire.mp3,Creation/Change,Analysis,Achievement
+431,visiter,to visit,french_audio/visiter.mp3,Activity/Social,Application,Activity
+432,résister,to resist,french_audio/resister.mp3,Activity/Social,Application,State
+433,mentir,to lie,french_audio/mentir.mp3,Communication,Application,Activity
+434,conclure,to conclude,french_audio/conclure.mp3,Cognition,Evaluation,Achievement
+435,grimper,to climb,french_audio/grimper.mp3,Motion/Space,Application,Activity
+436,dissimuler,to hide/conceal,french_audio/dissimuler.mp3,Physical Contact,Application,Achievement
+437,guetter,to watch for,french_audio/guetter.mp3,Perception,Analysis,Activity
+438,examiner,to examine,french_audio/examiner.mp3,Cognition,Analysis,Activity
+439,réduire,to reduce,french_audio/reduire.mp3,Creation/Change,Analysis,Accomplishment
+440,dominer,to dominate,french_audio/dominer.mp3,Activity/Social,Evaluation,State
+441,abattre,to shoot/knock down,french_audio/abattre.mp3,Physical Contact,Application,Achievement
+442,concerner,to concern,french_audio/concerner.mp3,Existence/State,Knowledge,State
+443,moquer,to mock,french_audio/moquer.mp3,Communication,Application,Activity
+444,plier,to fold,french_audio/plier.mp3,Physical Contact,Application,Activity
+445,frotter,to rub,french_audio/frotter.mp3,Physical Contact,Application,Activity
+446,incliner,to tilt,french_audio/incliner.mp3,Motion/Space,Application,Achievement
+447,regagner,to reach/win back,french_audio/regagner.mp3,Motion/Space,Knowledge,Achievement
+448,emplir,to fill up,french_audio/emplir.mp3,Physical Contact,Application,Accomplishment
+449,réclamer,to claim/demand,french_audio/reclamer.mp3,Communication,Application,Activity
+450,fatiguer,to tire,french_audio/fatiguer.mp3,Bodily Function,Knowledge,State
+451,débarrasser,to get rid of,french_audio/debarrasser.mp3,Motion/Space,Application,Achievement
+452,provoquer,to provoke,french_audio/provoquer.mp3,Activity/Social,Application,Achievement
+453,lutter,to struggle/fight,french_audio/lutter.mp3,Activity/Social,Application,Activity
+454,libérer,to free,french_audio/liberer.mp3,Activity/Social,Application,Achievement
+455,mordre,to bite,french_audio/mordre.mp3,Physical Contact,Knowledge,Achievement
+456,préciser,to specify,french_audio/preciser.mp3,Communication,Analysis,Achievement
+457,coûter,to cost,french_audio/couter.mp3,Existence/State,Evaluation,State
+458,rejeter,to reject,french_audio/rejeter.mp3,Activity/Social,Evaluation,Achievement
+459,appliquer,to apply,french_audio/appliquer.mp3,Activity/Social,Application,Activity
+460,entreprendre,to undertake,french_audio/entreprendre.mp3,Activity/Social,Application,Accomplishment
+461,fabriquer,to manufacture,french_audio/fabriquer.mp3,Creation/Change,Synthesis,Accomplishment
+462,composer,to compose,french_audio/composer.mp3,Creation/Change,Synthesis,Accomplishment
+463,gonfler,to inflate,french_audio/gonfler.mp3,Creation/Change,Application,Accomplishment
+464,réserver,to reserve,french_audio/reserver.mp3,Possession,Application,Achievement
+465,écrier,to exclaim,french_audio/ecrier.mp3,Communication,Application,Activity
+466,régner,to reign,french_audio/regner.mp3,Activity/Social,Knowledge,State
+467,mesurer,to measure,french_audio/mesurer.mp3,Cognition,Analysis,Activity
+468,signifier,to signify,french_audio/signifier.mp3,Communication,Knowledge,State
+469,organiser,to organize,french_audio/organiser.mp3,Activity/Social,Synthesis,Accomplishment
+470,fouiller,to search/rummage,french_audio/fouiller.mp3,Perception,Analysis,Activity
+471,pleuvoir,to rain,french_audio/pleuvoir.mp3,Existence/State,Knowledge,Activity
+472,déplacer,to move,french_audio/deplacer.mp3,Motion/Space,Application,Achievement
+473,grandir,to grow,french_audio/grandir.mp3,Existence/State,Knowledge,Accomplishment
+474,envelopper,to wrap,french_audio/envelopper.mp3,Physical Contact,Application,Accomplishment
+475,entretenir,to maintain/keep up,french_audio/entretenir.mp3,Activity/Social,Application,Activity
+476,habituer,to accustom,french_audio/habituer.mp3,Cognition,Application,Accomplishment
+477,convaincre,to convince,french_audio/convaincre.mp3,Communication,Evaluation,Achievement
+478,employer,to employ/use,french_audio/employer.mp3,Activity/Social,Application,Activity
+479,lier,to tie/link,french_audio/lier.mp3,Physical Contact,Application,Achievement
+480,opposer,to oppose,french_audio/opposer.mp3,Activity/Social,Analysis,State
+481,obéir,to obey,french_audio/obeir.mp3,Activity/Social,Application,Activity
+482,cracher,to spit,french_audio/cracher.mp3,Bodily Function,Knowledge,Achievement
+483,calmer,to calm,french_audio/calmer.mp3,Emotion/Affect,Application,Achievement
+484,inspirer,to inspire,french_audio/inspirer.mp3,Emotion/Affect,Synthesis,Activity
+485,user,to wear out/use,french_audio/user.mp3,Physical Contact,Application,Activity
+486,enfiler,to slip on,french_audio/enfiler.mp3,Bodily Function,Application,Achievement
+487,reprocher,to reproach,french_audio/reprocher.mp3,Communication,Evaluation,Activity
+488,condamner,to condemn,french_audio/condamner.mp3,Communication,Evaluation,Achievement
+489,pardonner,to forgive,french_audio/pardonner.mp3,Emotion/Affect,Evaluation,Achievement
+490,adorer,to adore,french_audio/adorer.mp3,Emotion/Affect,Knowledge,State
+491,noter,to note/write down,french_audio/noter.mp3,Communication,Knowledge,Achievement
+492,répandre,to spread,french_audio/repandre.mp3,Motion/Space,Application,Activity
+493,exercer,to exercise,french_audio/exercer.mp3,Activity/Social,Application,Activity
+494,apprécier,to appreciate,french_audio/apprecier.mp3,Emotion/Affect,Evaluation,State
+495,baiser,to kiss/f***,french_audio/baiser.mp3,Physical Contact,Application,Achievement
+496,déranger,to disturb,french_audio/deranger.mp3,Activity/Social,Application,Achievement
+497,raser,to shave/raze,french_audio/raser.mp3,Physical Contact,Application,Achievement
+498,faillir,to almost do,french_audio/faillir.mp3,Aspectual,Knowledge,Achievement
+499,utiliser,to use,french_audio/utiliser.mp3,Activity/Social,Application,Activity
+500,blesser,to bless/wound,french_audio/blesser.mp3,Physical Contact,Application,Achievement
+501,jaillir,to gush/spurt,french_audio/jaillir.mp3,Motion/Space,Knowledge,Activity
+502,soigner,to care for/treat,french_audio/soigner.mp3,Activity/Social,Application,Activity
+503,priver,to deprive,french_audio/priver.mp3,Possession,Analysis,State
+504,renvoyer,to send back/dismiss,french_audio/renvoyer.mp3,Communication,Application,Achievement
+505,inscrire,to write down/enroll,french_audio/inscrire.mp3,Communication,Application,Achievement
+506,coiffer,to style hair,french_audio/coiffer.mp3,Bodily Function,Application,Accomplishment
+507,tracer,to trace/draw,french_audio/tracer.mp3,Creation/Change,Application,Activity
+508,rougir,to blush,french_audio/rougir.mp3,Bodily Function,Knowledge,Achievement
+509,percer,to pierce/drill,french_audio/percer.mp3,Physical Contact,Application,Achievement
+510,ôter,to remove/take off,french_audio/oter.mp3,Motion/Space,Application,Achievement
+511,foncer,to darken/charge,french_audio/foncer.mp3,Motion/Space,Application,Activity
+512,veiller,to stay awake/watch over,french_audio/veiller.mp3,Perception,Application,Activity
+513,trahir,to betray,french_audio/trahir.mp3,Activity/Social,Evaluation,Achievement
+514,baigner,to bathe,french_audio/baigner.mp3,Bodily Function,Application,Activity
+515,imiter,to imitate,french_audio/imiter.mp3,Cognition,Application,Activity
+516,précéder,to precede,french_audio/preceder.mp3,Existence/State,Analysis,State
+517,hocher,to nod/shake,french_audio/hocher.mp3,Communication,Application,Achievement
+518,percevoir,to perceive/collect,french_audio/percevoir.mp3,Perception,Knowledge,Achievement
+519,transporter,to transport,french_audio/transporter.mp3,Motion/Space,Application,Activity
+520,refaire,to redo,french_audio/refaire.mp3,Creation/Change,Application,Accomplishment
+521,sécher,to dry,french_audio/secher.mp3,Creation/Change,Application,Accomplishment
+522,étirer,to stretch,french_audio/etirer.mp3,Physical Contact,Application,Activity
+523,vérifier,to verify,french_audio/verifier.mp3,Cognition,Evaluation,Activity
+524,décrire,to describe,french_audio/decrire.mp3,Communication,Comprehension,Activity
+525,siffler,to whistle,french_audio/siffler.mp3,Communication,Application,Activity
+526,participer,to participate,french_audio/participer.mp3,Activity/Social,Application,Activity
+527,accuser,to accuse,french_audio/accuser.mp3,Communication,Evaluation,Achievement
+528,goûter,to taste,french_audio/gouter.mp3,Perception,Knowledge,Achievement
+529,dérouler,to unroll/unfold,french_audio/derouler.mp3,Motion/Space,Application,Activity
+530,renverser,to spill/knock over,french_audio/renverser.mp3,Motion/Space,Application,Achievement
+531,rattraper,to catch up/regain,french_audio/rattraper.mp3,Motion/Space,Application,Achievement
+532,suspendre,to suspend/hang,french_audio/suspendre.mp3,Motion/Space,Application,Achievement
+533,emparer,to seize,french_audio/emparer.mp3,Possession,Application,Achievement
+534,jouir,to enjoy,french_audio/jouir.mp3,Emotion/Affect,Knowledge,State
+535,heurter,to collide/hit,french_audio/heurter.mp3,Physical Contact,Application,Achievement
+536,mouiller,to wet,french_audio/mouiller.mp3,Physical Contact,Application,Achievement
+537,redouter,to dread,french_audio/redouter.mp3,Emotion/Affect,Knowledge,State
+538,protester,to protest,french_audio/protester.mp3,Communication,Evaluation,Activity
+539,noyer,to drown,french_audio/noyer.mp3,Existence/State,Knowledge,Achievement
+540,pointer,to point/aim,french_audio/pointer.mp3,Communication,Application,Achievement
+541,gratter,to scratch,french_audio/gratter.mp3,Physical Contact,Application,Activity
+542,tordre,to twist,french_audio/tordre.mp3,Physical Contact,Application,Activity
+543,fondre,to melt,french_audio/fondre.mp3,Creation/Change,Knowledge,Accomplishment
+544,exposer,to expose/display,french_audio/exposer.mp3,Communication,Application,Activity
+545,consacrer,to devote/consecrate,french_audio/consacrer.mp3,Activity/Social,Evaluation,State
+546,satisfaire,to satisfy,french_audio/satisfaire.mp3,Emotion/Affect,Evaluation,State
+547,manifester,to manifest/show,french_audio/manifester.mp3,Communication,Application,Activity
+548,troubler,to disturb/blur,french_audio/troubler.mp3,Emotion/Affect,Application,Achievement
+549,virer,to turn/transfer,french_audio/virer.mp3,Motion/Space,Application,Achievement
+550,situer,to locate,french_audio/situer.mp3,Cognition,Knowledge,State
+551,exécuter,to execute/perform,french_audio/executer.mp3,Activity/Social,Application,Accomplishment
+552,avertir,to warn,french_audio/avertir.mp3,Communication,Application,Achievement
+553,estimer,to estimate,french_audio/estimer.mp3,Cognition,Evaluation,State
+554,tailler,to cut/trim,french_audio/tailler.mp3,Physical Contact,Application,Accomplishment
+555,dévorer,to devour,french_audio/devorer.mp3,Bodily Function,Application,Accomplishment
+556,soumettre,to submit,french_audio/soumettre.mp3,Activity/Social,Application,Achievement
+557,enfuir,to flee/run away,french_audio/enfuir.mp3,Motion/Space,Knowledge,Activity
+558,redevenir,to become again,french_audio/redevenir.mp3,Existence/State,Knowledge,Achievement
+559,émouvoir,to move (emotionally),french_audio/emouvoir.mp3,Emotion/Affect,Knowledge,Achievement
+560,balayer,to sweep,french_audio/balayer.mp3,Physical Contact,Application,Activity
+561,luire,to gleam/glow,french_audio/luire.mp3,Perception,Knowledge,State
+562,craquer,to creak/crack,french_audio/craquer.mp3,Perception,Knowledge,Achievement
+563,commettre,to commit,french_audio/commettre.mp3,Activity/Social,Application,Achievement
+564,résoudre,to resolve,french_audio/resoudre.mp3,Cognition,Analysis,Achievement
+565,gémir,to groan/moan,french_audio/gemir.mp3,Communication,Application,Activity
+566,persuader,to persuade,french_audio/persuader.mp3,Communication,Evaluation,Activity
+567,dépendre,to depend,french_audio/dependre.mp3,Existence/State,Analysis,State
+568,combattre,to fight,french_audio/combattre.mp3,Activity/Social,Application,Activity
+569,consulter,to consult,french_audio/consulter.mp3,Cognition,Analysis,Activity
+570,écrouler,to collapse (suddenly or completely) (of buildings/people/systems),french_audio/ecrouler.mp3,Existence/State,Knowledge,Achievement
+571,approuver,to approve,french_audio/approuver.mp3,Communication,Evaluation,State
+572,justifier,to justify,french_audio/justifier.mp3,Communication,Evaluation,Activity
+573,déjeuner,to lunch,french_audio/dejeuner.mp3,Bodily Function,Application,Activity
+574,méfier,to distrust,french_audio/mefier.mp3,Cognition,Evaluation,State
+575,réaliser,to realize/achieve,french_audio/realiser.mp3,Cognition,Synthesis,Accomplishment
+576,ordonner,to order/arrange,french_audio/ordonner.mp3,Communication,Application,Achievement
+577,haïr,to hate,french_audio/hair.mp3,Emotion/Affect,Knowledge,State
+578,bondir,to leap/bound,french_audio/bondir.mp3,Motion/Space,Application,Achievement
+579,intervenir,to intervene,french_audio/intervenir.mp3,Activity/Social,Application,Achievement
+580,destiner,to intend/destine,french_audio/destiner.mp3,Cognition,Analysis,State
+581,apaiser,to soothe/appease,french_audio/apaiser.mp3,Emotion/Affect,Application,Achievement
+582,prolonger,to prolong,french_audio/prolonger.mp3,Existence/State,Application,Activity
+583,conseiller,to advise,french_audio/conseiller.mp3,Communication,Application,Activity
+584,fonder,to found/base,french_audio/fonder.mp3,Creation/Change,Synthesis,Accomplishment
+585,soupçonner,to suspect,french_audio/soupconner.mp3,Cognition,Evaluation,State
+586,supplier,to beg/implore,french_audio/supplier.mp3,Communication,Application,Activity
+587,tarder,to be late/delay,french_audio/tarder.mp3,Existence/State,Knowledge,State
+588,bousculer,to shove/jostle,french_audio/bousculer.mp3,Physical Contact,Application,Activity
+589,border,to border/edge,french_audio/border.mp3,Existence/State,Knowledge,State
+590,consentir,to consent,french_audio/consentir.mp3,Communication,Evaluation,Achievement
+591,chuchoter,to whisper,french_audio/chuchoter.mp3,Communication,Application,Activity
+592,débarquer,to land/disembark,french_audio/debarquer.mp3,Motion/Space,Knowledge,Achievement
+593,longer,to go along,french_audio/longer.mp3,Motion/Space,Application,Activity
+594,traduire,to translate,french_audio/traduire.mp3,Communication,Analysis,Activity
+595,cogner,to bang/hit,french_audio/cogner.mp3,Physical Contact,Application,Achievement
+596,repasser,to iron/pass again,french_audio/repasser.mp3,Physical Contact,Application,Activity
+597,publier,to publish,french_audio/publier.mp3,Communication,Application,Achievement
+598,rigoler,to laugh/joke,french_audio/rigoler.mp3,Activity/Social,Application,Activity
+599,succéder,to succeed (follow),french_audio/succeder.mp3,Existence/State,Analysis,Achievement
+600,animer,to animate/lead,french_audio/animer.mp3,Activity/Social,Synthesis,Activity
+601,pourvoir,to provide,french_audio/pourvoir.mp3,Possession,Application,Activity
+602,respecter,to respect,french_audio/respecter.mp3,Emotion/Affect,Evaluation,State
+603,déboucher,to unblock/lead to,french_audio/deboucher.mp3,Physical Contact,Application,Achievement
+604,figer,to freeze/numb,french_audio/figer.mp3,Existence/State,Knowledge,Achievement
+605,consoler,to console,french_audio/consoler.mp3,Emotion/Affect,Application,Activity
+606,replier,to fold back,french_audio/replier.mp3,Physical Contact,Application,Achievement
+607,aborder,to approach/tackle,french_audio/aborder.mp3,Activity/Social,Application,Achievement
+608,épuiser,to exhaust,french_audio/epuiser.mp3,Existence/State,Knowledge,Accomplishment
+609,bouffer,to eat (slang),french_audio/bouffer.mp3,Bodily Function,Application,Accomplishment
+610,embarquer,to embark/board,french_audio/embarquer.mp3,Motion/Space,Knowledge,Achievement
+611,projeter,to project/plan,french_audio/projeter.mp3,Cognition,Synthesis,Activity
+612,joindre,to join/reach,french_audio/joindre.mp3,Activity/Social,Knowledge,Achievement
+613,découper,to cut out,french_audio/decouper.mp3,Physical Contact,Application,Accomplishment
+614,envisager,to envision/consider,french_audio/envisager.mp3,Cognition,Analysis,State
+615,défiler,to parade/march,french_audio/defiler.mp3,Activity/Social,Application,Activity
+616,marrer,to have fun (slang),french_audio/marrer.mp3,Emotion/Affect,Application,Activity
+617,nouer,to knot/tie,french_audio/nouer.mp3,Physical Contact,Application,Achievement
+618,barrer,to bar/cross out,french_audio/barrer.mp3,Physical Contact,Application,Achievement
+619,vieillir,to grow old,french_audio/vieillir.mp3,Existence/State,Knowledge,Accomplishment
+620,défaire,to undo,french_audio/defaire.mp3,Creation/Change,Application,Achievement
+621,tremper,to soak/dip,french_audio/tremper.mp3,Physical Contact,Application,Activity
+622,unir,to unite,french_audio/unir.mp3,Activity/Social,Synthesis,Achievement
+623,résonner,to resonate,french_audio/resonner.mp3,Perception,Knowledge,Activity
+624,récupérer,to recover/get back,french_audio/recuperer.mp3,Possession,Application,Achievement
+625,ressortir,to come out again,french_audio/ressortir.mp3,Motion/Space,Knowledge,Achievement
+626,déborder,to overflow,french_audio/deborder.mp3,Motion/Space,Knowledge,Activity
+627,grogner,to grunt/growl,french_audio/grogner.mp3,Communication,Application,Activity
+628,recueillir,to collect/gather,french_audio/recueillir.mp3,Possession,Application,Achievement
+629,basculer,to tip/topple,french_audio/basculer.mp3,Motion/Space,Knowledge,Achievement
+630,consister,to consist,french_audio/consister.mp3,Existence/State,Analysis,State
+631,clore,to close/end,french_audio/clore.mp3,Aspectual,Knowledge,Achievement
+632,emprunter,to borrow,french_audio/emprunter.mp3,Possession,Application,Achievement
+633,orner,to decorate/adorn,french_audio/orner.mp3,Creation/Change,Application,Accomplishment
+634,repérer,to spot/locate,french_audio/reperer.mp3,Perception,Knowledge,Achievement
+635,délivrer,to deliver/release,french_audio/delivrer.mp3,Activity/Social,Application,Achievement
+636,ralentir,to slow down,french_audio/ralentir.mp3,Motion/Space,Application,Activity
+637,fréquenter,to frequent/hang out,french_audio/frequenter.mp3,Activity/Social,Application,Activity
+638,agacer,to annoy,french_audio/agacer.mp3,Emotion/Affect,Application,Activity
+639,coincer,to wedge/corner,french_audio/coincer.mp3,Physical Contact,Application,Achievement
+640,ricaner,to sneer/snigger,french_audio/ricaner.mp3,Communication,Application,Activity
+641,comporter,to behave/include,french_audio/comporter.mp3,Activity/Social,Analysis,State
+642,introduire,to introduce,french_audio/introduire.mp3,Motion/Space,Application,Achievement
+643,décrocher,to unhook/pick up,french_audio/decrocher.mp3,Physical Contact,Application,Achievement
+644,encombrer,to clutter,french_audio/encombrer.mp3,Motion/Space,Knowledge,State
+645,étudier,to study,french_audio/etudier.mp3,Cognition,Analysis,Activity
+646,crisper,to tense/twitch,french_audio/crisper.mp3,Bodily Function,Knowledge,Activity
+647,guérir,to heal,french_audio/guerir.mp3,Existence/State,Knowledge,Accomplishment
+648,immobiliser,to immobilize,french_audio/immobiliser.mp3,Motion/Space,Application,Achievement
+649,déployer,to deploy/unfold,french_audio/deployer.mp3,Motion/Space,Application,Activity
+650,émerger,to emerge,french_audio/emerger.mp3,Existence/State,Knowledge,Achievement
+651,envoler,to fly away,french_audio/envoler.mp3,Motion/Space,Knowledge,Achievement
+652,effrayer,to frighten,french_audio/effrayer.mp3,Emotion/Affect,Knowledge,Achievement
+653,adopter,to adopt,french_audio/adopter.mp3,Activity/Social,Evaluation,Achievement
+654,chauffer,to heat,french_audio/chauffer.mp3,Creation/Change,Application,Activity
+655,acquérir,to acquire,french_audio/acquerir.mp3,Possession,Knowledge,Achievement
+656,entrevoir,to catch a glimpse,french_audio/entrevoir.mp3,Perception,Knowledge,Achievement
+657,louer,to rent/praise,french_audio/louer.mp3,Possession,Application,Activity
+658,apprêter,to prepare/get ready,french_audio/appreter.mp3,Creation/Change,Application,Accomplishment
+659,attarder,to linger,french_audio/attarder.mp3,Existence/State,Knowledge,Activity
+660,démarrer,to start up,french_audio/demarrer.mp3,Aspectual,Knowledge,Achievement
+661,ficher,to do/drive in,french_audio/ficher.mp3,Creation/Change,Application,Achievement
+662,soulager,to relieve,french_audio/soulager.mp3,Emotion/Affect,Application,Achievement
+663,entasser,to pile up,french_audio/entasser.mp3,Physical Contact,Application,Activity
+664,aspirer,to inhale/aspire,french_audio/aspirer.mp3,Bodily Function,Application,Activity
+665,fasciner,to fascinate,french_audio/fasciner.mp3,Emotion/Affect,Knowledge,State
+666,absorber,to absorb,french_audio/absorber.mp3,Physical Contact,Knowledge,Accomplishment
+667,fendre,to split,french_audio/fendre.mp3,Physical Contact,Application,Achievement
+668,enterrer,to bury,french_audio/enterrer.mp3,Physical Contact,Application,Achievement
+669,réciter,to recite,french_audio/reciter.mp3,Communication,Knowledge,Activity
+670,armer,to arm,french_audio/armer.mp3,Physical Contact,Application,Achievement
+671,redescendre,to go back down,french_audio/redescendre.mp3,Motion/Space,Knowledge,Activity
+672,ronger,to gnaw,french_audio/ronger.mp3,Physical Contact,Application,Activity
+673,imprimer,to print,french_audio/imprimer.mp3,Communication,Application,Achievement
+674,nettoyer,to clean,french_audio/nettoyer.mp3,Physical Contact,Application,Accomplishment
+675,sursauter,to startle/jump,french_audio/sursauter.mp3,Bodily Function,Knowledge,Achievement
+676,surmonter,to overcome,french_audio/surmonter.mp3,Cognition,Application,Achievement
+677,procurer,to provide/obtain,french_audio/procurer.mp3,Possession,Application,Achievement
+678,ravir,to delight/snatch,french_audio/ravir.mp3,Emotion/Affect,Knowledge,Achievement
+679,concevoir,to conceive/design,french_audio/concevoir.mp3,Cognition,Synthesis,Accomplishment
+680,survivre,to survive,french_audio/survivre.mp3,Existence/State,Knowledge,State
+681,entamer,to start/cut into,french_audio/entamer.mp3,Aspectual,Knowledge,Achievement
+682,distraire,to distract/entertain,french_audio/distraire.mp3,Emotion/Affect,Application,Activity
+683,plaquer,to flatten/dump,french_audio/plaquer.mp3,Physical Contact,Application,Achievement
+684,confirmer,to confirm,french_audio/confirmer.mp3,Communication,Evaluation,Achievement
+685,mépriser,to despise,french_audio/mepriser.mp3,Emotion/Affect,Evaluation,State
+686,viser,to aim at,french_audio/viser.mp3,Cognition,Application,Activity
+687,encourager,to encourage,french_audio/encourager.mp3,Communication,Application,Activity
+688,voyager,to travel,french_audio/voyager.mp3,Motion/Space,Application,Activity
+689,tâcher,to try/stain,french_audio/tacher.mp3,Cognition,Application,Activity
+690,aviser,to inform/decide,french_audio/aviser.mp3,Communication,Evaluation,Achievement
+691,signaler,to report/signal,french_audio/signaler.mp3,Communication,Knowledge,Achievement
+692,plaisanter,to joke,french_audio/plaisanter.mp3,Communication,Application,Activity
+693,bourrer,to stuff/cram,french_audio/bourrer.mp3,Physical Contact,Application,Activity
+694,errer,to wander,french_audio/errer.mp3,Motion/Space,Application,Activity
+695,gueuler,to yell (slang),french_audio/gueuler.mp3,Communication,Application,Activity
+696,dérober,to steal/hide,french_audio/derober.mp3,Possession,Knowledge,Achievement
+697,emmerder,to annoy (slang),french_audio/emmerder.mp3,Emotion/Affect,Application,Activity
+698,citer,to quote/cite,french_audio/citer.mp3,Communication,Knowledge,Achievement
+699,bouleverser,to upset/overturn,french_audio/bouleverser.mp3,Emotion/Affect,Knowledge,Achievement
+700,envier,to envy,french_audio/envier.mp3,Emotion/Affect,Evaluation,State
+701,enfouir,to bury/hide,french_audio/enfouir.mp3,Physical Contact,Application,Achievement
+702,aligner,to align,french_audio/aligner.mp3,Motion/Space,Application,Activity
+703,soucier,to worry/care,french_audio/soucier.mp3,Emotion/Affect,Knowledge,State
+704,écouler,to flow/pass,french_audio/ecouler.mp3,Motion/Space,Knowledge,Activity
+705,exciter,to excite,french_audio/exciter.mp3,Emotion/Affect,Knowledge,Activity
+706,pisser,to pee (slang),french_audio/pisser.mp3,Bodily Function,Knowledge,Activity
+707,communiquer,to communicate,french_audio/communiquer.mp3,Communication,Application,Activity
+708,débattre,to debate,french_audio/debattre.mp3,Communication,Analysis,Activity
+709,loger,to lodge/stay,french_audio/loger.mp3,Existence/State,Knowledge,State
+710,déshabiller,to undress,french_audio/deshabiller.mp3,Bodily Function,Application,Achievement
+711,guider,to guide,french_audio/guider.mp3,Motion/Space,Application,Activity
+712,abriter,to shelter,french_audio/abriter.mp3,Existence/State,Knowledge,State
+713,raccrocher,to hang up,french_audio/raccrocher.mp3,Communication,Application,Achievement
+714,revêtir,to put on/don,french_audio/revetir.mp3,Bodily Function,Application,Accomplishment
+715,empoigner,to grab,french_audio/empoigner.mp3,Physical Contact,Application,Achievement
+716,comparer,to compare,french_audio/comparer.mp3,Cognition,Analysis,Activity
+717,épargner,to save/spare,french_audio/epargner.mp3,Possession,Application,Activity
+718,procéder,to proceed,french_audio/proceder.mp3,Activity/Social,Application,Activity
+719,cueillir,to pluck/gather,french_audio/cueillir.mp3,Physical Contact,Knowledge,Achievement
+720,relire,to reread,french_audio/relire.mp3,Communication,Application,Activity
+721,circuler,to circulate,french_audio/circuler.mp3,Motion/Space,Knowledge,Activity
+722,aboutir,to end up/succeed,french_audio/aboutir.mp3,Existence/State,Knowledge,Achievement
+723,glacer,to freeze/chill,french_audio/glacer.mp3,Creation/Change,Knowledge,Achievement
+724,effondrer,to collapse (inward) (physical or emotional),french_audio/effondrer.mp3,Existence/State,Knowledge,Achievement
+725,effleurer,to brush against,french_audio/effleurer.mp3,Physical Contact,Knowledge,Achievement
+726,vaincre,to defeat,french_audio/vaincre.mp3,Activity/Social,Application,Achievement
+727,nager,to swim,french_audio/nager.mp3,Motion/Space,Application,Activity
+728,témoigner,to testify,french_audio/temoigner.mp3,Communication,Application,Activity
+729,réjouir,to rejoice,french_audio/rejouir.mp3,Emotion/Affect,Knowledge,Achievement
+730,distribuer,to distribute,french_audio/distribuer.mp3,Possession,Application,Activity
+731,frôler,to graze,french_audio/froler.mp3,Physical Contact,Knowledge,Achievement
+732,semer,to sow/scatter,french_audio/semer.mp3,Creation/Change,Application,Activity
+733,combler,to fill/fulfill,french_audio/combler.mp3,Emotion/Affect,Application,Accomplishment
+734,affecter,to affect/assign,french_audio/affecter.mp3,Emotion/Affect,Analysis,State
+735,retentir,to ring out,french_audio/retentir.mp3,Perception,Knowledge,Activity
+736,suggérer,to suggest,french_audio/suggerer.mp3,Communication,Application,Activity
+737,réfugier,to take refuge,french_audio/refugier.mp3,Motion/Space,Knowledge,Achievement
+738,réparer,to repair,french_audio/reparer.mp3,Creation/Change,Application,Accomplishment
+739,évanouir,to faint/vanish,french_audio/evanouir.mp3,Bodily Function,Knowledge,Achievement
+740,irriter,to irritate,french_audio/irriter.mp3,Emotion/Affect,Application,Activity
+741,accroupir,to crouch,french_audio/accroupir.mp3,Motion/Space,Knowledge,Achievement
+742,trancher,to slice/decide,french_audio/trancher.mp3,Physical Contact,Application,Achievement
+743,contraindre,to constrain,french_audio/contraindre.mp3,Activity/Social,Application,State
+744,féliciter,to congratulate,french_audio/feliciter.mp3,Communication,Application,Achievement
+745,dévisager,to stare at,french_audio/devisager.mp3,Perception,Application,Activity
+746,pratiquer,to practice,french_audio/pratiquer.mp3,Activity/Social,Application,Activity
+747,vibrer,to vibrate,french_audio/vibrer.mp3,Perception,Knowledge,Activity
+748,opérer,to operate,french_audio/operer.mp3,Activity/Social,Application,Activity
+749,bâtir,to build,french_audio/batir.mp3,Creation/Change,Synthesis,Accomplishment
+750,accumuler,to accumulate,french_audio/accumuler.mp3,Possession,Knowledge,Accomplishment
+751,venger,to avenge,french_audio/venger.mp3,Activity/Social,Application,Achievement
+752,fonctionner,to function/work,french_audio/fonctionner.mp3,Existence/State,Knowledge,Activity
+753,renifler,to sniff/snuffle,french_audio/renifler.mp3,Perception,Knowledge,Activity
+754,transmettre,to transmit,french_audio/transmettre.mp3,Communication,Application,Achievement
+755,lasser,to tire/bore,french_audio/lasser.mp3,Emotion/Affect,Knowledge,State
+756,impressionner,to impress,french_audio/impressionner.mp3,Emotion/Affect,Evaluation,Achievement
+757,frémir,to shudder/quiver,french_audio/fremir.mp3,Bodily Function,Knowledge,Activity
+758,encadrer,to frame/supervise,french_audio/encadrer.mp3,Activity/Social,Application,Activity
+759,renseigner,to inform/provide info,french_audio/renseigner.mp3,Communication,Knowledge,Achievement
+760,bavarder,to chat,french_audio/bavarder.mp3,Communication,Application,Activity
+761,brouiller,to scramble/blur,french_audio/brouiller.mp3,Creation/Change,Analysis,Achievement
+762,exploser,to explode,french_audio/exploser.mp3,Creation/Change,Knowledge,Achievement
+763,flatter,to flatter,french_audio/flatter.mp3,Communication,Application,Activity
+764,hâter,to hasten,french_audio/hater.mp3,Aspectual,Application,Activity
+765,expédier,to ship/dispatch,french_audio/expedier.mp3,Communication,Application,Achievement
+766,énerver,to irritate/annoy,french_audio/enerver.mp3,Emotion/Affect,Knowledge,Achievement
+767,ménager,to spare/save,french_audio/menager.mp3,Activity/Social,Evaluation,State
+768,pincer,to pinch,french_audio/pincer.mp3,Physical Contact,Application,Achievement
+769,détendre,to relax,french_audio/detendre.mp3,Bodily Function,Application,Achievement
+770,nier,to deny,french_audio/nier.mp3,Communication,Evaluation,Achievement
+771,fourrer,to stuff/shove,french_audio/fourrer.mp3,Physical Contact,Application,Achievement
+772,ébranler,to shake/weaken,french_audio/ebranler.mp3,Physical Contact,Application,Achievement
+773,isoler,to isolate,french_audio/isoler.mp3,Activity/Social,Analysis,Achievement
+774,réagir,to react,french_audio/reagir.mp3,Activity/Social,Application,Achievement
+775,boucler,to buckle/loop/finish,french_audio/boucler.mp3,Physical Contact,Application,Achievement
+776,agenouiller,to kneel,french_audio/agenouiller.mp3,Motion/Space,Application,Achievement
+777,calculer,to calculate,french_audio/calculer.mp3,Cognition,Application,Activity
+778,susciter,to arouse/provoke,french_audio/susciter.mp3,Emotion/Affect,Application,Achievement
+779,vomir,to vomit,french_audio/vomir.mp3,Bodily Function,Knowledge,Achievement
+780,vanter,to boast/praise,french_audio/vanter.mp3,Communication,Application,Activity
+781,tousser,to cough,french_audio/tousser.mp3,Bodily Function,Knowledge,Achievement
+782,lécher,to lick,french_audio/lecher.mp3,Physical Contact,Knowledge,Activity
+783,bloquer,to block,french_audio/bloquer.mp3,Physical Contact,Application,Achievement
+784,enseigner,to teach,french_audio/enseigner.mp3,Communication,Application,Activity
+785,multiplier,to multiply,french_audio/multiplier.mp3,Cognition,Application,Activity
+786,déclencher,to trigger,french_audio/declencher.mp3,Creation/Change,Application,Achievement
+787,dépêcher,to hurry,french_audio/depecher.mp3,Motion/Space,Application,Achievement
+788,mélanger,to mix,french_audio/melanger.mp3,Creation/Change,Application,Activity
+789,doubler,to double/overtake,french_audio/doubler.mp3,Motion/Space,Application,Achievement
+790,égarer,to mislead/lose,french_audio/egarer.mp3,Motion/Space,Knowledge,Achievement
+791,gronder,to scold,french_audio/gronder.mp3,Communication,Application,Activity
+792,rater,to miss/fail,french_audio/rater.mp3,Aspectual,Knowledge,Achievement
+793,acharner,to be relentless,french_audio/acharner.mp3,Emotion/Affect,Evaluation,State
+794,chier,to shit (slang),french_audio/chier.mp3,Bodily Function,Knowledge,Achievement
+795,exagérer,to exaggerate,french_audio/exagerer.mp3,Communication,Evaluation,Activity
+796,souligner,to underline/stress,french_audio/souligner.mp3,Communication,Application,Achievement
+797,rechercher,to research/search,french_audio/rechercher.mp3,Cognition,Analysis,Activity
+798,enchanter,to delight,french_audio/enchanter.mp3,Emotion/Affect,Knowledge,Achievement
+799,affronter,to confront,french_audio/affronter.mp3,Activity/Social,Application,Achievement
+800,rétablir,to restore,french_audio/retablir.mp3,Creation/Change,Application,Accomplishment
+801,hisser,to hoist,french_audio/hisser.mp3,Motion/Space,Application,Achievement
+802,engloutir,to swallow up,french_audio/engloutir.mp3,Physical Contact,Knowledge,Achievement
+803,séduire,to seduce,french_audio/seduire.mp3,Emotion/Affect,Application,Activity
+804,refléter,to reflect,french_audio/refleter.mp3,Perception,Analysis,State
+805,réchauffer,to warm up,french_audio/rechauffer.mp3,Creation/Change,Application,Activity
+806,rédiger,to write/draft,french_audio/rediger.mp3,Communication,Synthesis,Accomplishment
+807,brandir,to brandish,french_audio/brandir.mp3,Physical Contact,Application,Activity
+808,disputer,to argue/compete,french_audio/disputer.mp3,Communication,Application,Activity
+809,étrangler,to strangle,french_audio/etrangler.mp3,Physical Contact,Knowledge,Achievement
+810,fâcher,to make angry,french_audio/facher.mp3,Emotion/Affect,Knowledge,Achievement
+811,pourrir,to rot,french_audio/pourrir.mp3,Existence/State,Knowledge,Accomplishment
+812,attribuer,to attribute,french_audio/attribuer.mp3,Cognition,Analysis,Achievement
+813,saigner,to bleed,french_audio/saigner.mp3,Bodily Function,Knowledge,Activity
+814,planquer,to hide (slang),french_audio/planquer.mp3,Physical Contact,Application,Achievement
+815,rabattre,to pull down/fold,french_audio/rabattre.mp3,Physical Contact,Application,Achievement
+816,enchaîner,to chain/sequence,french_audio/enchainer.mp3,Physical Contact,Application,Activity
+817,décevoir,to disappoint,french_audio/decevoir.mp3,Emotion/Affect,Knowledge,Achievement
+818,informer,to inform,french_audio/informer.mp3,Communication,Knowledge,Achievement
+819,abîmer,to damage,french_audio/abimer.mp3,Physical Contact,Application,Achievement
+820,buter,to stumble/prop up,french_audio/buter.mp3,Motion/Space,Knowledge,Achievement
+821,tâter,to feel/touch,french_audio/tater.mp3,Perception,Application,Activity
+822,feuilleter,to flip through,french_audio/feuilleter.mp3,Perception,Application,Activity
+823,développer,to develop,french_audio/developper.mp3,Creation/Change,Synthesis,Accomplishment
+824,recommander,to recommend,french_audio/recommander.mp3,Communication,Evaluation,Achievement
+825,accabler,to overwhelm,french_audio/accabler.mp3,Emotion/Affect,Knowledge,State
+826,boucher,to cork/block,french_audio/boucher.mp3,Physical Contact,Application,Achievement
+827,feindre,to feign/pretend,french_audio/feindre.mp3,Cognition,Application,Activity
+828,flanquer,to fling/give,french_audio/flanquer.mp3,Physical Contact,Application,Achievement
+829,préserver,to preserve,french_audio/preserver.mp3,Creation/Change,Application,State
+830,contrôler,to control,french_audio/controler.mp3,Activity/Social,Evaluation,Activity
+831,cerner,to surround/define,french_audio/cerner.mp3,Cognition,Analysis,Achievement
+832,attendrir,to soften/move,french_audio/attendrir.mp3,Emotion/Affect,Application,Achievement
+833,augmenter,to increase,french_audio/augmenter.mp3,Existence/State,Knowledge,Activity
+834,autoriser,to authorize,french_audio/autoriser.mp3,Communication,Application,Achievement
+835,émerveiller,to marvel,french_audio/emerveiller.mp3,Emotion/Affect,Evaluation,Achievement
+836,débrouiller,to manage/untangle,french_audio/debrouiller.mp3,Cognition,Application,Activity
+837,ruer,to kick/rush,french_audio/ruer.mp3,Motion/Space,Application,Activity
+838,coudre,to sew,french_audio/coudre.mp3,Creation/Change,Application,Accomplishment
+839,revivre,to relive,french_audio/revivre.mp3,Cognition,Knowledge,Activity
+840,déplaire,to displease,french_audio/deplaire.mp3,Emotion/Affect,Knowledge,State
+841,piétiner,to trample/stall,french_audio/pietiner.mp3,Motion/Space,Application,Activity
+842,échouer,to fail,french_audio/echouer.mp3,Aspectual,Knowledge,Achievement
+843,affoler,to panic,french_audio/affoler.mp3,Emotion/Affect,Knowledge,Achievement
+844,dépouiller,to strip/skin,french_audio/depouiller.mp3,Physical Contact,Analysis,Achievement
+845,relier,to connect,french_audio/relier.mp3,Physical Contact,Application,Achievement
+846,cuire,to cook,french_audio/cuire.mp3,Creation/Change,Application,Accomplishment
+847,frissonner,to shiver,french_audio/frissonner.mp3,Bodily Function,Knowledge,Activity
+848,résigner,to resign,french_audio/resigner.mp3,Cognition,Evaluation,Achievement
+849,élancer,to shoot forward,french_audio/elancer.mp3,Motion/Space,Application,Achievement
+850,cirer,to wax/polish,french_audio/cirer.mp3,Physical Contact,Application,Accomplishment
+851,sacrifier,to sacrifice,french_audio/sacrifier.mp3,Activity/Social,Evaluation,Achievement
+852,décorer,to decorate,french_audio/decorer.mp3,Creation/Change,Application,Accomplishment
+853,punir,to punish,french_audio/punir.mp3,Activity/Social,Application,Achievement
+854,célébrer,to celebrate,french_audio/celebrer.mp3,Activity/Social,Application,Activity
+855,rôder,to prowl,french_audio/roder.mp3,Motion/Space,Application,Activity
+856,illuminer,to light up,french_audio/illuminer.mp3,Perception,Application,Achievement
+857,commenter,to comment,french_audio/commenter.mp3,Communication,Analysis,Activity
+858,négliger,to neglect,french_audio/negliger.mp3,Activity/Social,Evaluation,State
+859,parfaire,to perfect,french_audio/parfaire.mp3,Creation/Change,Synthesis,Accomplishment
+860,arroser,to water,french_audio/arroser.mp3,Physical Contact,Application,Activity
+861,éblouir,to dazzle,french_audio/eblouir.mp3,Perception,Knowledge,Achievement
+862,décoller,to unstick/take off,french_audio/decoller.mp3,Motion/Space,Application,Achievement
+863,intriguer,to intrigue,french_audio/intriguer.mp3,Emotion/Affect,Analysis,State
+864,courber,to bend,french_audio/courber.mp3,Physical Contact,Application,Activity
+865,peupler,to populate,french_audio/peupler.mp3,Existence/State,Knowledge,State
+866,parer,to adorn/parry,french_audio/parer.mp3,Creation/Change,Application,Achievement
+867,exaspérer,to exasperate,french_audio/exasperer.mp3,Emotion/Affect,Knowledge,Achievement
+868,dissiper,to dissipate,french_audio/dissiper.mp3,Existence/State,Knowledge,Achievement
+869,entrouvrir,to half-open,french_audio/entrouvrir.mp3,Physical Contact,Application,Achievement
+870,contourner,to bypass,french_audio/contourner.mp3,Motion/Space,Application,Activity
+871,raidir,to stiffen,french_audio/raidir.mp3,Bodily Function,Knowledge,Achievement
+872,grincer,to creak/grind,french_audio/grincer.mp3,Perception,Knowledge,Activity
+873,correspondre,to correspond,french_audio/correspondre.mp3,Communication,Analysis,State
+874,déplier,to unfold,french_audio/deplier.mp3,Physical Contact,Application,Achievement
+875,rouiller,to rust,french_audio/rouiller.mp3,Existence/State,Knowledge,Accomplishment
+876,renouveler,to renew,french_audio/renouveler.mp3,Creation/Change,Application,Achievement
+877,clouer,to nail,french_audio/clouer.mp3,Physical Contact,Application,Achievement
+878,ramper,to crawl,french_audio/ramper.mp3,Motion/Space,Application,Activity
+879,sombrer,to sink,french_audio/sombrer.mp3,Motion/Space,Knowledge,Achievement
+880,convoquer,to summon,french_audio/convoquer.mp3,Communication,Application,Achievement
+881,élargir,to widen,french_audio/elargir.mp3,Creation/Change,Application,Achievement
+882,afficher,to display,french_audio/afficher.mp3,Communication,Application,Achievement
+883,limiter,to limit,french_audio/limiter.mp3,Existence/State,Analysis,State
+884,tasser,to pack down,french_audio/tasser.mp3,Physical Contact,Application,Achievement
+885,violer,to violate/rape,french_audio/violer.mp3,Activity/Social,Application,Achievement
+886,triompher,to triumph,french_audio/triompher.mp3,Activity/Social,Evaluation,Achievement
+887,pressentir,to have a foreboding,french_audio/pressentir.mp3,Cognition,Evaluation,State
+888,masquer,to mask/hide,french_audio/masquer.mp3,Physical Contact,Application,Achievement
+889,ruisseler,to stream/flow,french_audio/ruisseler.mp3,Motion/Space,Knowledge,Activity
+890,accourir,to run up/hasten,french_audio/accourir.mp3,Motion/Space,Knowledge,Achievement
+891,dénoncer,to denounce,french_audio/denoncer.mp3,Communication,Evaluation,Achievement
+892,exclamer,to exclaim,french_audio/exclamer.mp3,Communication,Application,Activity
+893,préoccuper,to preoccupy,french_audio/preoccuper.mp3,Emotion/Affect,Knowledge,State
+894,identifier,to identify,french_audio/identifier.mp3,Cognition,Knowledge,Achievement
+895,bénir,to bless,french_audio/benir.mp3,Communication,Application,Achievement
+896,vouer,to vow/dedicate,french_audio/vouer.mp3,Communication,Evaluation,Achievement
+897,concentrer,to concentrate,french_audio/concentrer.mp3,Cognition,Analysis,Activity
+898,disperser,to disperse,french_audio/disperser.mp3,Motion/Space,Application,Achievement
+899,compliquer,to complicate,french_audio/compliquer.mp3,Creation/Change,Analysis,Achievement
+900,cligner,to blink/wink,french_audio/cligner.mp3,Bodily Function,Knowledge,Achievement
+901,modifier,to modify,french_audio/modifier.mp3,Creation/Change,Application,Achievement
+902,contrer,to counter,french_audio/contrer.mp3,Activity/Social,Application,Achievement
+903,puer,to stink,french_audio/puer.mp3,Perception,Knowledge,State
+904,engouffrer,to swallow up,french_audio/engouffrer.mp3,Physical Contact,Knowledge,Achievement
+905,bâiller,to yawn,french_audio/bailler.mp3,Bodily Function,Knowledge,Achievement
+906,sucer,to suck,french_audio/sucer.mp3,Physical Contact,Knowledge,Activity
+907,gâcher,to waste/spoil,french_audio/gacher.mp3,Creation/Change,Evaluation,Achievement
+908,rouvrir,to reopen,french_audio/rouvrir.mp3,Physical Contact,Application,Achievement
+909,graver,to engrave,french_audio/graver.mp3,Creation/Change,Application,Accomplishment
+910,insulter,to insult,french_audio/insulter.mp3,Communication,Application,Activity
+911,fusiller,to shoot,french_audio/fusiller.mp3,Physical Contact,Application,Achievement
+912,ronfler,to snore,french_audio/ronfler.mp3,Bodily Function,Knowledge,Activity
+913,contribuer,to contribute,french_audio/contribuer.mp3,Activity/Social,Application,Activity
+914,bercer,to rock/cradle,french_audio/bercer.mp3,Physical Contact,Application,Activity
+915,abaisser,to lower,french_audio/abaisser.mp3,Motion/Space,Application,Achievement
+916,garer,to park,french_audio/garer.mp3,Motion/Space,Application,Achievement
+917,applaudir,to applaud,french_audio/applaudir.mp3,Communication,Application,Achievement
+918,accélérer,to accelerate,french_audio/accelerer.mp3,Motion/Space,Application,Activity
+919,répliquer,to reply/retort,french_audio/repliquer.mp3,Communication,Application,Activity
+920,ressusciter,to resurrect,french_audio/ressusciter.mp3,Existence/State,Knowledge,Achievement
+921,renforcer,to reinforce,french_audio/renforcer.mp3,Creation/Change,Application,Achievement
+922,caler,to wedge/stall,french_audio/caler.mp3,Physical Contact,Application,Achievement
+923,accouder,to lean on elbows,french_audio/accouder.mp3,Motion/Space,Application,Achievement
+924,imprégner,to soak/imbue,french_audio/impregner.mp3,Physical Contact,Knowledge,Accomplishment
+925,conquérir,to conquer,french_audio/conquerir.mp3,Activity/Social,Application,Achievement
+926,agripper,to grab/clutch,french_audio/agripper.mp3,Physical Contact,Application,Achievement
+927,dégoûter,to disgust,french_audio/degouter.mp3,Emotion/Affect,Knowledge,Achievement
+928,passionner,to fascinate,french_audio/passionner.mp3,Emotion/Affect,Knowledge,State
+929,désespérer,to despair,french_audio/desesperer.mp3,Emotion/Affect,Knowledge,State
+930,fouetter,to whip,french_audio/fouetter.mp3,Physical Contact,Application,Activity
+931,faufiler,to slip through,french_audio/faufiler.mp3,Motion/Space,Application,Activity
+932,dater,to date,french_audio/dater.mp3,Existence/State,Analysis,State
+933,assommer,to knock out,french_audio/assommer.mp3,Physical Contact,Application,Achievement
+934,indigner,to outrage,french_audio/indigner.mp3,Emotion/Affect,Evaluation,Achievement
+935,émettre,to emit/issue,french_audio/emettre.mp3,Communication,Application,Achievement
+936,gravir,to climb,french_audio/gravir.mp3,Motion/Space,Application,Activity
+937,intimider,to intimidate,french_audio/intimider.mp3,Emotion/Affect,Application,Achievement
+938,subsister,to subsist/remain,french_audio/subsister.mp3,Existence/State,Knowledge,State
+939,geler,to freeze,french_audio/geler.mp3,Creation/Change,Knowledge,Achievement
+940,déguiser,to disguise,french_audio/deguiser.mp3,Creation/Change,Application,Achievement
+941,étreindre,to embrace/clasp,french_audio/etreindre.mp3,Physical Contact,Application,Achievement
+942,enrouler,to roll up,french_audio/enrouler.mp3,Physical Contact,Application,Achievement
+943,adosser,to lean back,french_audio/adosser.mp3,Motion/Space,Application,Achievement
+944,esquisser,to sketch/outline,french_audio/esquisser.mp3,Creation/Change,Synthesis,Accomplishment
+945,sacrer,to crown/consecrate,french_audio/sacrer.mp3,Activity/Social,Application,Achievement
+946,garantir,to guarantee,french_audio/garantir.mp3,Communication,Application,State
+947,dévaler,to hurtle down,french_audio/devaler.mp3,Motion/Space,Knowledge,Activity
+948,diviser,to divide,french_audio/diviser.mp3,Creation/Change,Analysis,Achievement
+949,compromettre,to compromise,french_audio/compromettre.mp3,Activity/Social,Evaluation,Achievement
+950,tapoter,to pat/tap,french_audio/tapoter.mp3,Physical Contact,Application,Activity
+951,planer,to glide/hover,french_audio/planer.mp3,Motion/Space,Knowledge,Activity
+952,tacher,to stain,french_audio/tacher.mp3,Physical Contact,Knowledge,Achievement
+953,obstiner,to persist,french_audio/obstiner.mp3,Emotion/Affect,Evaluation,State
+954,plisser,to pleat/wrinkle,french_audio/plisser.mp3,Physical Contact,Application,Achievement
+955,fleurir,to bloom,french_audio/fleurir.mp3,Existence/State,Knowledge,Activity
+956,proclamer,to proclaim,french_audio/proclamer.mp3,Communication,Application,Achievement
+957,garnir,to garnish/trim,french_audio/garnir.mp3,Creation/Change,Application,Accomplishment
+958,baptiser,to baptize/name,french_audio/baptiser.mp3,Communication,Application,Achievement
+959,tourmenter,to torment,french_audio/tourmenter.mp3,Emotion/Affect,Knowledge,Activity
+960,reconstituer,to reconstruct,french_audio/reconstituer.mp3,Creation/Change,Synthesis,Accomplishment
+961,péter,to fart/break (slang),french_audio/peter.mp3,Bodily Function,Knowledge,Achievement
+962,diminuer,to decrease,french_audio/diminuer.mp3,Existence/State,Knowledge,Activity
+963,incarner,to embody,french_audio/incarner.mp3,Existence/State,Analysis,State
+964,manier,to handle/wield,french_audio/manier.mp3,Physical Contact,Application,Activity
+965,exclure,to exclude,french_audio/exclure.mp3,Activity/Social,Analysis,Achievement
+966,agrandir,to enlarge,french_audio/agrandir.mp3,Creation/Change,Application,Achievement
+967,accentuer,to accentuate,french_audio/accentuer.mp3,Communication,Application,Achievement
+968,corriger,to correct,french_audio/corriger.mp3,Cognition,Evaluation,Achievement
+969,fêter,to celebrate,french_audio/feter.mp3,Activity/Social,Application,Activity
+970,reproduire,to reproduce,french_audio/reproduire.mp3,Creation/Change,Synthesis,Accomplishment
+971,salir,to soil/dirty,french_audio/salir.mp3,Physical Contact,Knowledge,Achievement
+972,gifler,to slap,french_audio/gifler.mp3,Physical Contact,Application,Achievement
+973,épier,to spy on,french_audio/epier.mp3,Perception,Analysis,Activity
+974,enlacer,to entwine/embrace,french_audio/enlacer.mp3,Physical Contact,Application,Achievement
+975,froncer,to frown/gather,french_audio/froncer.mp3,Bodily Function,Knowledge,Achievement
+976,questionner,to question,french_audio/questionner.mp3,Communication,Analysis,Activity
+977,maquiller,to make up,french_audio/maquiller.mp3,Bodily Function,Application,Accomplishment
+978,empiler,to stack,french_audio/empiler.mp3,Physical Contact,Application,Activity
+979,progresser,to progress,french_audio/progresser.mp3,Aspectual,Knowledge,Activity
+980,déchiffrer,to decipher,french_audio/dechiffrer.mp3,Cognition,Analysis,Achievement
+981,souiller,to sully/stain,french_audio/souiller.mp3,Physical Contact,Knowledge,Achievement
+982,reparaître,to reappear,french_audio/reparaitre.mp3,Existence/State,Knowledge,Achievement
+983,gésir,to lie (dead/injured),french_audio/gesir.mp3,Existence/State,Knowledge,State
+984,chausser,to put on shoes,french_audio/chausser.mp3,Bodily Function,Application,Achievement
+985,parier,to bet,french_audio/parier.mp3,Communication,Evaluation,Achievement
+986,dessécher,to dry up,french_audio/dessecher.mp3,Creation/Change,Knowledge,Accomplishment
+987,embêter,to bother/annoy,french_audio/embeter.mp3,Emotion/Affect,Application,Activity
+988,stopper,to stop,french_audio/stopper.mp3,Aspectual,Knowledge,Achievement
+989,interpeller,to call out to,french_audio/interpeller.mp3,Communication,Application,Achievement
+990,grouiller,to swarm,french_audio/grouiller.mp3,Motion/Space,Knowledge,Activity
+991,scruter,to scrutinize,french_audio/scruter.mp3,Perception,Analysis,Activity
+992,braquer,to steer/aim,french_audio/braquer.mp3,Motion/Space,Application,Achievement
+993,bander,to bandage/get hard,french_audio/bander.mp3,Physical Contact,Application,Achievement
+994,formuler,to formulate,french_audio/formuler.mp3,Communication,Synthesis,Accomplishment
+995,survenir,to occur suddenly,french_audio/survenir.mp3,Existence/State,Knowledge,Achievement
+996,décourager,to discourage,french_audio/decourager.mp3,Emotion/Affect,Application,Achievement
+997,aveugler,to blind,french_audio/aveugler.mp3,Perception,Knowledge,Achievement
+998,dépenser,to spend,french_audio/depenser.mp3,Possession,Application,Activity
+999,torturer,to torture,french_audio/torturer.mp3,Activity/Social,Application,Activity
+1000,persister,to persist,french_audio/persister.mp3,Existence/State,Analysis,State
+1001,choquer,to shock,french_audio/choquer.mp3,Emotion/Affect,Knowledge,Achievement
+1002,provenir,to stem/come from,french_audio/provenir.mp3,Existence/State,Analysis,State
+1003,escalader,to climb/scale,french_audio/escalader.mp3,Motion/Space,Application,Activity
+1004,alourdir,to weigh down,french_audio/alourdir.mp3,Physical Contact,Application,Achievement
+1005,assassiner,to assassinate,french_audio/assassiner.mp3,Activity/Social,Application,Achievement
+1006,emballer,to pack/wrap,french_audio/emballer.mp3,Physical Contact,Application,Accomplishment
+1007,hanter,to haunt,french_audio/hanter.mp3,Emotion/Affect,Knowledge,State
+1008,effectuer,to carry out,french_audio/effectuer.mp3,Activity/Social,Application,Accomplishment
+1009,discerner,to discern,french_audio/discerner.mp3,Cognition,Analysis,Achievement
+1010,pâlir,to turn pale,french_audio/palir.mp3,Bodily Function,Knowledge,Achievement
+1011,inonder,to flood,french_audio/inonder.mp3,Physical Contact,Application,Achievement
+1012,dorer,to brown/gild,french_audio/dorer.mp3,Creation/Change,Application,Accomplishment
+1013,supprimer,to delete/remove,french_audio/supprimer.mp3,Physical Contact,Analysis,Achievement
+1014,empoisonner,to poison,french_audio/empoisonner.mp3,Physical Contact,Application,Achievement
+1015,mater,to subdue/watch,french_audio/mater.mp3,Activity/Social,Application,Achievement
+1016,maîtriser,to master,french_audio/maitriser.mp3,Cognition,Application,State
+1017,broder,to embroider,french_audio/broder.mp3,Creation/Change,Synthesis,Accomplishment
+1018,couronner,to crown,french_audio/couronner.mp3,Activity/Social,Application,Achievement
+1019,méditer,to meditate,french_audio/mediter.mp3,Cognition,Analysis,Activity
+1020,chantonner,to hum,french_audio/chantonner.mp3,Communication,Application,Activity
+1021,grossir,to get fat/bigger,french_audio/grossir.mp3,Existence/State,Knowledge,Accomplishment
+1022,tournoyer,to twirl/whirl,french_audio/tournoyer.mp3,Motion/Space,Application,Activity
+1023,enjamber,to step over,french_audio/enjamber.mp3,Motion/Space,Application,Achievement
+1024,assumer,to assume/take on,french_audio/assumer.mp3,Cognition,Evaluation,State
+1025,flairer,to sniff out/scent,french_audio/flairer.mp3,Perception,Analysis,Achievement
+1026,enregistrer,to record,french_audio/enregistrer.mp3,Communication,Application,Achievement
+1027,voiler,to veil/cloud,french_audio/voiler.mp3,Physical Contact,Application,Achievement
+1028,épanouir,to blossom/bloom,french_audio/epanouir.mp3,Existence/State,Knowledge,Accomplishment
+1029,sangloter,to sob,french_audio/sangloter.mp3,Bodily Function,Knowledge,Activity
+1030,massacrer,to massacre,french_audio/massacrer.mp3,Activity/Social,Application,Achievement
+1031,détailler,to detail,french_audio/detailler.mp3,Communication,Analysis,Activity
+1032,arrondir,to round off,french_audio/arrondir.mp3,Creation/Change,Application,Achievement
+1033,munir,to equip/provide,french_audio/munir.mp3,Possession,Application,Achievement
+1034,résumer,to summarize,french_audio/resumer.mp3,Communication,Comprehension,Accomplishment
+1035,retarder,to delay,french_audio/retarder.mp3,Existence/State,Knowledge,Activity
+1036,aplatir,to flatten,french_audio/aplatir.mp3,Physical Contact,Application,Achievement
+1037,définir,to define,french_audio/definir.mp3,Communication,Knowledge,Achievement
+1038,brailler,to bawl/yell,french_audio/brailler.mp3,Communication,Application,Activity
+1039,puiser,to draw/dip,french_audio/puiser.mp3,Motion/Space,Application,Activity
+1040,désoler,to distress,french_audio/desoler.mp3,Emotion/Affect,Knowledge,State
+1041,incruster,to encrust/embed,french_audio/incruster.mp3,Physical Contact,Application,Achievement
+1042,débiter,"to cut up/debit  débiter un arbre
+débiter un compte de mille euros",french_audio/debiter.mp3,Possession,Application,Activity
+1043,compléter,to complete,french_audio/completer.mp3,Aspectual,Application,Accomplishment
+1044,traquer,to track/hunt,french_audio/traquer.mp3,Activity/Social,Application,Activity
+1045,raccompagner,to see back,french_audio/raccompagner.mp3,Motion/Space,Application,Achievement
+1046,humilier,to humiliate,french_audio/humilier.mp3,Emotion/Affect,Evaluation,Achievement
+1047,gâter,to spoil,french_audio/gater.mp3,Emotion/Affect,Application,Achievement
+1048,savourer,to savor,french_audio/savourer.mp3,Perception,Evaluation,Activity
+1049,abuser,to abuse,french_audio/abuser.mp3,Activity/Social,Evaluation,Activity
+1050,accommoder,to adapt/suit,french_audio/accommoder.mp3,Creation/Change,Application,Achievement
+1051,associer,to associate,french_audio/associer.mp3,Cognition,Analysis,Achievement
+1052,infliger,to inflict,french_audio/infliger.mp3,Activity/Social,Application,Achievement
+1053,recroqueviller,to curl up,french_audio/recroqueviller.mp3,Motion/Space,Knowledge,Achievement
+1054,rasseoir,to sit back down,french_audio/rasseoir.mp3,Motion/Space,Application,Achievement
+1055,affaler,to slump,french_audio/affaler.mp3,Motion/Space,Knowledge,Achievement
+1056,durcir,to harden,french_audio/durcir.mp3,Creation/Change,Knowledge,Accomplishment
+1057,paralyser,to paralyze,french_audio/paralyser.mp3,Existence/State,Knowledge,Achievement
+1058,hérisser,to bristle,french_audio/herisser.mp3,Bodily Function,Knowledge,Achievement
+1059,flamber,to blaze/flambé,french_audio/flamber.mp3,Creation/Change,Application,Achievement
+1060,inspecter,to inspect,french_audio/inspecter.mp3,Perception,Analysis,Activity
+1061,balbutier,to stammer,french_audio/balbutier.mp3,Communication,Application,Activity
+1062,grommeler,to grumble,french_audio/grommeler.mp3,Communication,Application,Activity
+1063,embarrasser,to embarrass,french_audio/embarrasser.mp3,Emotion/Affect,Knowledge,Achievement
+1064,renier,to disown/deny,french_audio/renier.mp3,Communication,Evaluation,Achievement
+1065,camper,to camp,french_audio/camper.mp3,Activity/Social,Application,Activity
+1066,chialer,to blubber (slang),french_audio/chialer.mp3,Bodily Function,Knowledge,Activity
+1067,exalter,to exalt,french_audio/exalter.mp3,Communication,Evaluation,Achievement
+1068,rallier,to rally/join,french_audio/rallier.mp3,Activity/Social,Application,Achievement
+1069,assombrir,to darken,french_audio/assombrir.mp3,Creation/Change,Knowledge,Achievement
+1070,manoeuvrer,to maneuver,french_audio/manoeuvrer.mp3,Motion/Space,Application,Activity
+1071,tressaillir,to shudder/quiver,french_audio/tressaillir.mp3,Bodily Function,Knowledge,Achievement
+1072,sculpter,to sculpt,french_audio/sculpter.mp3,Creation/Change,Synthesis,Accomplishment
+1073,photographier,to photograph,french_audio/photographier.mp3,Creation/Change,Application,Achievement
+1074,filtrer,to filter,french_audio/filtrer.mp3,Physical Contact,Analysis,Activity
+1075,bouillir,to boil,french_audio/bouillir.mp3,Creation/Change,Knowledge,Activity
+1076,balader,to stroll/walk,french_audio/balader.mp3,Motion/Space,Application,Activity
+1077,élire,to elect,french_audio/elire.mp3,Activity/Social,Evaluation,Achievement
+1078,faucher,to mow/reap,french_audio/faucher.mp3,Physical Contact,Application,Achievement
+1079,marmonner,to mumble,french_audio/marmonner.mp3,Communication,Application,Activity
+1080,cultiver,to cultivate,french_audio/cultiver.mp3,Creation/Change,Application,Activity
+1081,éparpiller,to scatter,french_audio/eparpiller.mp3,Motion/Space,Application,Achievement
+1082,cramponner,to cling,french_audio/cramponner.mp3,Physical Contact,Application,Activity
+1083,relâcher,to release,french_audio/relacher.mp3,Physical Contact,Application,Achievement
+1084,tolérer,to tolerate,french_audio/tolerer.mp3,Emotion/Affect,Evaluation,State
+1085,affairer,to be busy,french_audio/affairer.mp3,Activity/Social,Application,Activity
+1086,bredouiller,to mumble/sputter,french_audio/bredouiller.mp3,Communication,Application,Activity
+1087,évader,to escape,french_audio/evader.mp3,Motion/Space,Knowledge,Achievement
+1088,tituber,to stagger,french_audio/tituber.mp3,Motion/Space,Knowledge,Activity
+1089,grouper,to group,french_audio/grouper.mp3,Cognition,Analysis,Achievement
+1090,exhiber,to exhibit,french_audio/exhiber.mp3,Communication,Application,Activity
+1091,contrarier,to thwart/annoy,french_audio/contrarier.mp3,Emotion/Affect,Application,Achievement
+1092,galoper,to gallop,french_audio/galoper.mp3,Motion/Space,Application,Activity
+1093,extraire,to extract,french_audio/extraire.mp3,Physical Contact,Analysis,Achievement
+1094,honorer,to honor,french_audio/honorer.mp3,Activity/Social,Evaluation,State
+1095,borner,to limit/bound,french_audio/borner.mp3,Existence/State,Analysis,State
+1096,mouvoir,to move,french_audio/mouvoir.mp3,Motion/Space,Knowledge,Activity
+1097,déchaîner,to unleash,french_audio/dechainer.mp3,Creation/Change,Application,Achievement
+1098,douer,to endow,french_audio/douer.mp3,Possession,Knowledge,State
+1099,conférer,to confer,french_audio/conferer.mp3,Communication,Application,Achievement
+1100,éclaircir,to brighten/clear up,french_audio/eclaircir.mp3,Perception,Analysis,Achievement
+1101,osciller,to oscillate,french_audio/osciller.mp3,Motion/Space,Knowledge,Activity
+1102,freiner,to brake/slow down,french_audio/freiner.mp3,Motion/Space,Application,Achievement
+1103,tricoter,to knit,french_audio/tricoter.mp3,Creation/Change,Synthesis,Accomplishment
+1104,renaître,to be reborn,french_audio/renaitre.mp3,Existence/State,Knowledge,Achievement
+1105,palper,to feel/palpate,french_audio/palper.mp3,Perception,Analysis,Activity
+1106,percher,to perch,french_audio/percher.mp3,Motion/Space,Knowledge,Achievement
+1107,dévoiler,to unveil,french_audio/devoiler.mp3,Communication,Analysis,Achievement
+1108,articuler,to articulate,french_audio/articuler.mp3,Communication,Application,Activity
+1109,engueuler,to scold (slang),french_audio/engueuler.mp3,Communication,Application,Activity
+1110,accéder,to access,french_audio/acceder.mp3,Motion/Space,Knowledge,Achievement
+1111,alerter,to alert,french_audio/alerter.mp3,Communication,Application,Achievement
+1112,empresser,to hurry,french_audio/empresser.mp3,Motion/Space,Application,Achievement
+1113,submerger,to submerge/swamp,french_audio/submerger.mp3,Physical Contact,Knowledge,Achievement
+1114,racheter,to buy back/redeem,french_audio/racheter.mp3,Possession,Application,Achievement
+1115,hériter,to inherit,french_audio/heriter.mp3,Possession,Knowledge,Achievement
+1116,broncher,to flinch/stumble,french_audio/broncher.mp3,Bodily Function,Knowledge,Achievement
+1117,masser,to massage,french_audio/masser.mp3,Physical Contact,Application,Activity
+1118,vaciller,to flicker/wobble,french_audio/vaciller.mp3,Motion/Space,Knowledge,Activity
+1119,pêcher,to fish,french_audio/pecher.mp3,Activity/Social,Application,Activity
+1120,blottir,to snuggle,french_audio/blottir.mp3,Motion/Space,Knowledge,Achievement
+1121,chevaucher,to ride/overlap,french_audio/chevaucher.mp3,Motion/Space,Application,Activity
+1122,griller,to grill/toast,french_audio/griller.mp3,Creation/Change,Application,Accomplishment
+1123,classer,to classify,french_audio/classer.mp3,Cognition,Analysis,Achievement
+1124,plaider,to plead,french_audio/plaider.mp3,Communication,Application,Activity
+1125,anéantir,to annihilate,french_audio/aneantir.mp3,Creation/Change,Analysis,Achievement
+1126,atténuer,to mitigate/soften,french_audio/attenuer.mp3,Creation/Change,Analysis,Achievement
+1127,trébucher,to trip/stumble,french_audio/trebucher.mp3,Motion/Space,Knowledge,Achievement
+1128,croquer,to crunch/sketch,french_audio/croquer.mp3,Perception,Application,Achievement
+1129,interpréter,to interpret,french_audio/interpreter.mp3,Cognition,Analysis,Activity
+1130,faciliter,to facilitate,french_audio/faciliter.mp3,Activity/Social,Application,Achievement
+1131,farcir,to stuff (cooking),french_audio/farcir.mp3,Creation/Change,Application,Accomplishment
+1132,aventurer,to venture,french_audio/aventurer.mp3,Activity/Social,Application,Activity
+1133,adapter,to adapt,french_audio/adapter.mp3,Cognition,Analysis,Achievement
+1134,aménager,to arrange/convert,french_audio/amenager.mp3,Creation/Change,Application,Accomplishment
+1135,froisser,to crumple,french_audio/froisser.mp3,Physical Contact,Application,Achievement
+1136,racler,to scrape,french_audio/racler.mp3,Physical Contact,Application,Activity
+1137,dégringoler,to tumble down,french_audio/degringoler.mp3,Motion/Space,Knowledge,Achievement
+1138,acquiescer,to nod/agree,french_audio/acquiescer.mp3,Communication,Evaluation,Achievement
+1139,déformer,to deform,french_audio/deformer.mp3,Creation/Change,Analysis,Achievement
+1140,baver,to drool,french_audio/baver.mp3,Bodily Function,Knowledge,Activity
+1141,grimacer,to grimace,french_audio/grimacer.mp3,Bodily Function,Application,Activity
+1142,charrier,to carry/tease,french_audio/charrier.mp3,Communication,Application,Activity
+1143,peiner,to struggle/grieve,french_audio/peiner.mp3,Emotion/Affect,Knowledge,Activity
+1144,scintiller,to sparkle,french_audio/scintiller.mp3,Perception,Knowledge,State
+1145,mâcher,to chew,french_audio/macher.mp3,Bodily Function,Application,Activity
+1146,prescrire,to prescribe,french_audio/prescrire.mp3,Communication,Application,Achievement
+1147,dissoudre,to dissolve,french_audio/dissoudre.mp3,Creation/Change,Analysis,Achievement
+1148,dicter,to dictate,french_audio/dicter.mp3,Communication,Application,Activity
+1149,contracter,to contract,french_audio/contracter.mp3,Physical Contact,Analysis,Achievement
+1150,dénouer,to untie,french_audio/denouer.mp3,Physical Contact,Application,Achievement
+1151,défier,to defy/challenge,french_audio/defier.mp3,Communication,Evaluation,Activity
+1152,réapparaître,to reappear,french_audio/reapparaitre.mp3,Existence/State,Knowledge,Achievement
+1153,blanchir,to whiten,french_audio/blanchir.mp3,Creation/Change,Knowledge,Accomplishment
+1154,repenser,to rethink,french_audio/repenser.mp3,Cognition,Analysis,Activity
+1155,impliquer,to involve,french_audio/impliquer.mp3,Activity/Social,Analysis,State
+1156,refiler,to pass on (slang),french_audio/refiler.mp3,Possession,Application,Achievement
+1157,déverser,to discharge/pour out,french_audio/deverser.mp3,Motion/Space,Application,Achievement
+1158,démontrer,to demonstrate,french_audio/demontrer.mp3,Communication,Application,Activity
+1159,ruiner,to ruin,french_audio/ruiner.mp3,Creation/Change,Analysis,Achievement
+1160,onduler,to wave/ripple,french_audio/onduler.mp3,Motion/Space,Knowledge,Activity
+1161,rattacher,to reattach,french_audio/rattacher.mp3,Physical Contact,Application,Achievement
+1162,couver,to brood/hatch,french_audio/couver.mp3,Bodily Function,Knowledge,Activity
+1163,explorer,to explore,french_audio/explorer.mp3,Cognition,Analysis,Activity
+1164,instruire,to instruct,french_audio/instruire.mp3,Communication,Application,Activity
+1165,déguster,to taste/sample,french_audio/deguster.mp3,Perception,Evaluation,Activity
+1166,édifier,to build/edify,french_audio/edifier.mp3,Creation/Change,Synthesis,Accomplishment
+1167,déterminer,to determine,french_audio/determiner.mp3,Cognition,Analysis,Achievement
+1168,piger,to get/understand (slang),french_audio/piger.mp3,Cognition,Comprehension,Achievement
+1169,orienter,to direct/orient,french_audio/orienter.mp3,Motion/Space,Application,Achievement
+1170,amorcer,to prime/start,french_audio/amorcer.mp3,Aspectual,Knowledge,Achievement
+1171,décharger,to unload,french_audio/decharger.mp3,Motion/Space,Application,Achievement
+1172,aboyer,to bark,french_audio/aboyer.mp3,Communication,Knowledge,Activity
+1173,tapir,to crouch/lurk,french_audio/tapir.mp3,Motion/Space,Knowledge,Achievement
+1174,solliciter,to request/solicit,french_audio/solliciter.mp3,Communication,Application,Activity
+1175,forger,to forge,french_audio/forger.mp3,Creation/Change,Synthesis,Accomplishment
+1176,suffoquer,to suffocate,french_audio/suffoquer.mp3,Bodily Function,Knowledge,Achievement
+1177,régaler,to treat/feast,french_audio/regaler.mp3,Activity/Social,Application,Achievement
+1178,enrichir,to enrich,french_audio/enrichir.mp3,Creation/Change,Analysis,Achievement
+1179,vexer,to offend/vex,french_audio/vexer.mp3,Emotion/Affect,Knowledge,Achievement
+1180,trouer,to make a hole,french_audio/trouer.mp3,Physical Contact,Application,Achievement
+1181,tinter,to jingle/tinkle,french_audio/tinter.mp3,Perception,Knowledge,Activity
+1182,haleter,to pant/gasp,french_audio/haleter.mp3,Bodily Function,Knowledge,Activity
+1183,évoluer,to evolve,french_audio/evoluer.mp3,Existence/State,Knowledge,Activity
+1184,entraver,to hinder,french_audio/entraver.mp3,Activity/Social,Application,State
+1185,qualifier,to qualify,french_audio/qualifier.mp3,Communication,Evaluation,Achievement
+1186,illustrer,to illustrate,french_audio/illustrer.mp3,Communication,Synthesis,Activity
+1187,frayer,to clear a path,french_audio/frayer.mp3,Motion/Space,Application,Achievement
+1188,redonner,to give back,french_audio/redonner.mp3,Possession,Application,Achievement
+1189,crisser,to screech/crunch,french_audio/crisser.mp3,Perception,Knowledge,Activity
+1190,prodiguer,to lavish/give freely,french_audio/prodiguer.mp3,Possession,Application,Activity
+1191,affranchir,to stamp/free,french_audio/affranchir.mp3,Activity/Social,Application,Achievement
+1192,dériver,to drift/derive,french_audio/deriver.mp3,Existence/State,Analysis,State
+1193,naviguer,to navigate,french_audio/naviguer.mp3,Motion/Space,Application,Activity
+1194,lisser,to smooth,french_audio/lisser.mp3,Physical Contact,Application,Activity
+1195,consommer,to consume,french_audio/consommer.mp3,Bodily Function,Application,Accomplishment
+1196,suicider,to commit suicide,french_audio/suicider.mp3,Bodily Function,Knowledge,Achievement
+1197,décliner,to decline,french_audio/decliner.mp3,Existence/State,Analysis,Achievement
+1198,déferler,to unfurl/sweep,french_audio/deferler.mp3,Motion/Space,Knowledge,Activity
+1199,déserter,to desert,french_audio/deserter.mp3,Motion/Space,Knowledge,Achievement
+1200,nuire,to harm,french_audio/nuire.mp3,Activity/Social,Evaluation,State
+1201,rayer,to scratch/cross out,french_audio/rayer.mp3,Physical Contact,Application,Achievement
+1202,démolir,to demolish,french_audio/demolir.mp3,Creation/Change,Analysis,Achievement
+1203,affaisser,to sag/collapse,french_audio/affaisser.mp3,Existence/State,Knowledge,Achievement
+1204,tisser,to weave,french_audio/tisser.mp3,Creation/Change,Synthesis,Accomplishment
+1205,exploiter,to exploit,french_audio/exploiter.mp3,Activity/Social,Analysis,Activity
+1206,rincer,to rinse,french_audio/rincer.mp3,Physical Contact,Application,Activity
+1207,dispenser,to dispense/exempt,french_audio/dispenser.mp3,Communication,Application,Achievement
+1208,accroître,to increase,french_audio/accroitre.mp3,Existence/State,Knowledge,Activity
+1209,déceler,to detect,french_audio/deceler.mp3,Perception,Analysis,Achievement
+1210,ronronner,to purr,french_audio/ronronner.mp3,Communication,Knowledge,Activity
+1211,replonger,to dive back,french_audio/replonger.mp3,Motion/Space,Knowledge,Achievement
+1212,réprimer,to repress,french_audio/reprimer.mp3,Activity/Social,Application,Achievement
+1213,resserrer,to tighten,french_audio/resserrer.mp3,Physical Contact,Application,Achievement
+1214,adoucir,to soften,french_audio/adoucir.mp3,Creation/Change,Application,Achievement
+1215,redoubler,to redouble,french_audio/redoubler.mp3,Aspectual,Knowledge,Activity
+1216,polir,to polish,french_audio/polir.mp3,Physical Contact,Application,Accomplishment
+1217,pétrir,to knead,french_audio/petrir.mp3,Physical Contact,Application,Activity
+1218,assoupir,to doze off,french_audio/assoupir.mp3,Bodily Function,Knowledge,Achievement
+1219,invoquer,to invoke,french_audio/invoquer.mp3,Communication,Application,Achievement
+1220,enfler,to swell,french_audio/enfler.mp3,Bodily Function,Knowledge,Activity
+1221,bosser,to work (slang),french_audio/bosser.mp3,Activity/Social,Application,Activity
+1222,tapisser,to wallpaper/carpet,french_audio/tapisser.mp3,Creation/Change,Application,Accomplishment
+1223,déconner,to mess around (slang),french_audio/deconner.mp3,Activity/Social,Application,Activity
+1224,desserrer,to loosen,french_audio/desserrer.mp3,Physical Contact,Application,Achievement
+1225,river,to rivet/fix,french_audio/river.mp3,Physical Contact,Application,Achievement
+1226,siffloter,to whistle (lightly),french_audio/siffloter.mp3,Communication,Application,Activity
+1227,révolter,to revolt,french_audio/revolter.mp3,Activity/Social,Evaluation,Achievement
+1228,exhaler,to exhale/give off,french_audio/exhaler.mp3,Bodily Function,Knowledge,Activity
+1229,négocier,to negotiate,french_audio/negocier.mp3,Communication,Analysis,Activity
+1230,étinceler,to sparkle,french_audio/etinceler.mp3,Perception,Knowledge,State
+1231,transpirer,to sweat,french_audio/transpirer.mp3,Bodily Function,Knowledge,Activity
+1232,décréter,to decree,french_audio/decreter.mp3,Communication,Application,Achievement
+1233,liquider,to liquidate,french_audio/liquider.mp3,Possession,Application,Achievement
+1234,rebondir,to rebound,french_audio/rebondir.mp3,Motion/Space,Knowledge,Achievement
+1235,rectifier,to rectify,french_audio/rectifier.mp3,Cognition,Evaluation,Achievement
+1236,enflammer,to ignite/inflame,french_audio/enflammer.mp3,Creation/Change,Knowledge,Achievement
+1237,présider,to preside,french_audio/presider.mp3,Activity/Social,Application,Activity
+1238,détenir,to hold/detain,french_audio/detenir.mp3,Possession,Knowledge,State
+1239,réconcilier,to reconcile,french_audio/reconcilier.mp3,Activity/Social,Application,Achievement
+1240,jucher,to perch,french_audio/jucher.mp3,Motion/Space,Knowledge,Achievement
+1241,arborer,to sport/display,french_audio/arborer.mp3,Communication,Application,Activity
+1242,remporter,to win/carry off,french_audio/remporter.mp3,Possession,Application,Achievement
+1243,meubler,to furnish,french_audio/meubler.mp3,Creation/Change,Application,Accomplishment
+1244,favoriser,to favor,french_audio/favoriser.mp3,Activity/Social,Evaluation,State
+1245,aggraver,to aggravate/worsen,french_audio/aggraver.mp3,Existence/State,Knowledge,Achievement
+1246,apprivoiser,to tame,french_audio/apprivoiser.mp3,Activity/Social,Application,Accomplishment
+1247,assaillir,to assail/beset,french_audio/assaillir.mp3,Activity/Social,Application,Achievement
+1248,impatienter,to grow impatient,french_audio/impatienter.mp3,Emotion/Affect,Knowledge,Activity
+1249,tâtonner,to grope/fumble,french_audio/tatonner.mp3,Perception,Analysis,Activity
+1250,dédaigner,to disdain,french_audio/dedaigner.mp3,Emotion/Affect,Evaluation,State
+1251,inciter,to incite,french_audio/inciter.mp3,Communication,Application,Achievement
+1252,miner,to undermine/mine,french_audio/miner.mp3,Physical Contact,Analysis,Activity
+1253,engendrer,to generate/beget,french_audio/engendrer.mp3,Creation/Change,Analysis,Accomplishment
+1254,somnoler,to doze,french_audio/somnoler.mp3,Bodily Function,Knowledge,Activity
+1255,poster,to post,french_audio/poster.mp3,Communication,Application,Achievement
+1256,maudire,to curse,french_audio/maudire.mp3,Communication,Evaluation,Achievement
+1257,noircir,to blacken,french_audio/noircir.mp3,Creation/Change,Knowledge,Achievement
+1258,palpiter,to throb/palpitate,french_audio/palpiter.mp3,Bodily Function,Knowledge,Activity
+1259,ajuster,to adjust,french_audio/ajuster.mp3,Creation/Change,Application,Achievement
+1260,râler,to grumble (slang),french_audio/raler.mp3,Communication,Application,Activity
+1261,marteler,to hammer,french_audio/marteler.mp3,Physical Contact,Application,Activity
+1262,rafraîchir,to refresh,french_audio/rafraichir.mp3,Creation/Change,Application,Achievement
+1263,convertir,to convert,french_audio/convertir.mp3,Creation/Change,Analysis,Achievement
+1264,croître,to grow,french_audio/croitre.mp3,Existence/State,Knowledge,Activity
+1265,engourdir,to numb,french_audio/engourdir.mp3,Bodily Function,Knowledge,Achievement
+1266,déménager,to move house,french_audio/demenager.mp3,Motion/Space,Application,Accomplishment
+1267,répugner,to be repugnant to,french_audio/repugner.mp3,Emotion/Affect,Evaluation,State
+1268,suer,to sweat,french_audio/suer.mp3,Bodily Function,Knowledge,Activity
+1269,rayonner,to radiate,french_audio/rayonner.mp3,Perception,Knowledge,Activity
+1270,périr,to perish,french_audio/perir.mp3,Existence/State,Knowledge,Achievement
+1271,emprisonner,to imprison,french_audio/emprisonner.mp3,Activity/Social,Application,Achievement
+1272,grignoter,to nibble,french_audio/grignoter.mp3,Bodily Function,Application,Activity
+1273,grelotter,to shiver/quake,french_audio/grelotter.mp3,Bodily Function,Knowledge,Activity
+1274,saurer,to smoke (fish),french_audio/saurer.mp3,Creation/Change,Application,Accomplishment
+1275,encaisser,to cash in/endure(slang),french_audio/encaisser.mp3,Possession,Application,Achievement
+1276,raisonner,to reason,french_audio/raisonner.mp3,Cognition,Analysis,Activity
+1277,trotter,to trot,french_audio/trotter.mp3,Motion/Space,Application,Activity
+1278,vautrer,to wallow,french_audio/vautrer.mp3,Motion/Space,Knowledge,Achievement
+1279,parfumer,to perfume,french_audio/parfumer.mp3,Perception,Application,Accomplishment
+1280,griser,to intoxicate,french_audio/griser.mp3,Emotion/Affect,Knowledge,Achievement
+1281,confesser,to confess,french_audio/confesser.mp3,Communication,Application,Achievement
+1282,crépiter,to crackle,french_audio/crepiter.mp3,Perception,Knowledge,Activity
+1283,redire,to say again,french_audio/redire.mp3,Communication,Knowledge,Activity
+1284,diffuser,to broadcast/diffuse,french_audio/diffuser.mp3,Communication,Application,Activity
+1285,éponger,to sponge up,french_audio/eponger.mp3,Physical Contact,Application,Activity
+1286,trôner,to sit on a throne,french_audio/troner.mp3,Existence/State,Knowledge,State
+1287,teinter,to tint/tinge,french_audio/teinter.mp3,Creation/Change,Application,Achievement
+1288,brosser,to brush,french_audio/brosser.mp3,Physical Contact,Application,Activity
+1289,fuser,to gush/burst out,french_audio/fuser.mp3,Motion/Space,Knowledge,Activity
+1290,éclipser,to eclipse,french_audio/eclipser.mp3,Perception,Analysis,Achievement
+1291,différer,to differ/defer,french_audio/differer.mp3,Existence/State,Analysis,State
+1292,extirper,to extirpate/uproot,french_audio/extirper.mp3,Physical Contact,Analysis,Achievement
+1293,tutoyer,to use 'tu',french_audio/tutoyer.mp3,Communication,Application,Activity
+1294,confectionner,to make/prepare,french_audio/confectionner.mp3,Creation/Change,Synthesis,Accomplishment
+1295,choir,to fall,french_audio/choir.mp3,Motion/Space,Knowledge,Achievement
+1296,consumer,to consume/burn,french_audio/consumer.mp3,Creation/Change,Knowledge,Accomplishment
+1297,branler,to shake/masturbate (slang),french_audio/branler.mp3,Physical Contact,Application,Activity
+1298,répartir,to distribute,french_audio/repartir.mp3,Possession,Analysis,Achievement
+1299,émaner,to emanate,french_audio/emaner.mp3,Existence/State,Analysis,State
+1300,mimer,to mime,french_audio/mimer.mp3,Communication,Application,Activity
+1301,scier,to saw,french_audio/scier.mp3,Physical Contact,Application,Activity
+1302,évacuer,to evacuate,french_audio/evacuer.mp3,Motion/Space,Knowledge,Achievement
+1303,excéder,to exceed/infuriate,french_audio/exceder.mp3,Existence/State,Analysis,Achievement
+1304,éclabousser,to splash,french_audio/eclabousser.mp3,Physical Contact,Knowledge,Achievement
+1305,astiquer,to polish/shine,french_audio/astiquer.mp3,Physical Contact,Application,Activity
+1306,évaluer,to evaluate,french_audio/evaluer.mp3,Cognition,Evaluation,Activity
+1307,insinuer,to insinuate,french_audio/insinuer.mp3,Communication,Analysis,Activity
+1308,tricher,to cheat,french_audio/tricher.mp3,Activity/Social,Application,Activity
+1309,écoeurer,to nauseate,french_audio/ecoeurer.mp3,Emotion/Affect,Knowledge,Achievement
+1310,fredonner,to hum,french_audio/fredonner.mp3,Communication,Application,Activity
+1311,tortiller,to twist/wriggle,french_audio/tortiller.mp3,Motion/Space,Knowledge,Activity
+1312,bénéficier,to benefit,french_audio/beneficier.mp3,Activity/Social,Analysis,State
+1313,succomber,to succumb,french_audio/succomber.mp3,Existence/State,Knowledge,Achievement
+1314,égorger,to slit the throat,french_audio/egorger.mp3,Physical Contact,Application,Achievement
+1315,capter,to capture/get,french_audio/capter.mp3,Perception,Knowledge,Achievement
+1316,fouler,to trample/sprain,french_audio/fouler.mp3,Physical Contact,Application,Achievement
+1317,épaissir,to thicken,french_audio/epaissir.mp3,Creation/Change,Knowledge,Accomplishment
+1318,humer,to sniff/inhale,french_audio/humer.mp3,Perception,Knowledge,Achievement
+1319,rhabiller,to dress again,french_audio/rhabiller.mp3,Bodily Function,Application,Accomplishment
+1320,arpenter,to pace/survey,french_audio/arpenter.mp3,Motion/Space,Application,Activity
+1321,jacter,to chatter (slang),french_audio/jacter.mp3,Communication,Application,Activity
+1322,digérer,to digest,french_audio/digerer.mp3,Bodily Function,Knowledge,Accomplishment
+1323,bourdonner,to buzz/hum,french_audio/bourdonner.mp3,Perception,Knowledge,Activity
+1324,griffer,to scratch/claw,french_audio/griffer.mp3,Physical Contact,Application,Achievement
+1325,intituler,to title/call,french_audio/intituler.mp3,Communication,Knowledge,Achievement
+1326,équiper,to equip,french_audio/equiper.mp3,Possession,Application,Accomplishment
+1327,résulter,to result,french_audio/resulter.mp3,Existence/State,Analysis,State
+1328,retrousser,to roll up/tuck up,french_audio/retrousser.mp3,Physical Contact,Application,Achievement
+1329,embrouiller,to muddle/confuse,french_audio/embrouiller.mp3,Cognition,Analysis,Achievement
+1330,louper,to miss (slang),french_audio/louper.mp3,Aspectual,Knowledge,Achievement
+1331,investir,to invest,french_audio/investir.mp3,Possession,Application,Activity
+1332,joncher,to strew/litter,french_audio/joncher.mp3,Physical Contact,Knowledge,State
+1333,cingler,to lash/sting,french_audio/cingler.mp3,Physical Contact,Knowledge,Achievement
+1334,restituer,to restore/return,french_audio/restituer.mp3,Possession,Application,Achievement
+1335,mobiliser,to mobilize,french_audio/mobiliser.mp3,Activity/Social,Application,Achievement
+1336,atterrir,to land,french_audio/atterrir.mp3,Motion/Space,Knowledge,Achievement
+1337,gaver,to force-feed,french_audio/gaver.mp3,Bodily Function,Application,Accomplishment
+1338,défoncer,to smash in/get high,french_audio/defoncer.mp3,Physical Contact,Application,Achievement
+1339,advenir,to happen,french_audio/advenir.mp3,Existence/State,Knowledge,Achievement
+1340,daigner,to deign,french_audio/daigner.mp3,Emotion/Affect,Evaluation,State
+1341,colorer,to color,french_audio/colorer.mp3,Creation/Change,Application,Achievement
+1342,pivoter,to pivot,french_audio/pivoter.mp3,Motion/Space,Application,Achievement
+1343,compenser,to compensate,french_audio/compenser.mp3,Possession,Analysis,Achievement
+1344,rétorquer,to retort,french_audio/retorquer.mp3,Communication,Application,Activity
+1345,mentionner,to mention,french_audio/mentionner.mp3,Communication,Knowledge,Achievement
+1346,ponctuer,to punctuate,french_audio/ponctuer.mp3,Communication,Application,Activity
+1347,fléchir,to bend/yield,french_audio/flechir.mp3,Physical Contact,Application,Achievement
+1348,rajouter,to add (extra),french_audio/rajouter.mp3,Creation/Change,Application,Achievement
+1349,abolir,to abolish,french_audio/abolir.mp3,Activity/Social,Analysis,Achievement
+1350,métamorphoser,to metamorphose,french_audio/metamorphoser.mp3,Creation/Change,Synthesis,Accomplishment
+1351,restaurer,to restore,french_audio/restaurer.mp3,Creation/Change,Application,Accomplishment
+1352,rembourser,to reimburse,french_audio/rembourser.mp3,Possession,Application,Achievement
+1353,ravager,to ravage,french_audio/ravager.mp3,Creation/Change,Analysis,Achievement
+1354,éplucher,to peel,french_audio/eplucher.mp3,Creation/Change,Application,Activity
+1355,trinquer,to clink glasses/suffer,french_audio/trinquer.mp3,Activity/Social,Application,Achievement
+1356,réconforter,to comfort,french_audio/reconforter.mp3,Emotion/Affect,Application,Activity
+1357,ranimer,to revive,french_audio/ranimer.mp3,Creation/Change,Application,Achievement
+1358,accoutumer,to accustom,french_audio/accoutumer.mp3,Cognition,Application,Accomplishment
+1359,pouffer,to giggle/burst out,french_audio/pouffer.mp3,Bodily Function,Knowledge,Achievement
+1360,obséder,to obsess,french_audio/obseder.mp3,Emotion/Affect,Knowledge,State
+1361,flâner,to stroll/loiter,french_audio/flaner.mp3,Motion/Space,Application,Activity
+1362,patauger,to paddle/wade,french_audio/patauger.mp3,Motion/Space,Knowledge,Activity
+1363,barbouiller,to smear/daub,french_audio/barbouiller.mp3,Physical Contact,Application,Activity
+1364,cavaler,to run/dash,french_audio/cavaler.mp3,Motion/Space,Application,Activity
+1365,cheminer,to walk along,french_audio/cheminer.mp3,Motion/Space,Application,Activity
+1366,conter,to tell (a story),french_audio/conter.mp3,Communication,Application,Activity
+1367,doter,to endow/provide (equipment/features/or a dowry.),french_audio/doter.mp3,Possession,Knowledge,Achievement
+1368,farder,to make up,french_audio/farder.mp3,Bodily Function,Application,Accomplishment
+1369,fier,to trust/rely,french_audio/fier.mp3,Emotion/Affect,Evaluation,State
+1370,foudroyer,to strike down,french_audio/foudroyer.mp3,Physical Contact,Knowledge,Achievement
+1371,maigrir,to lose weight,french_audio/maigrir.mp3,Bodily Function,Knowledge,Accomplishment
+1372,rallumer,to relight,french_audio/rallumer.mp3,Creation/Change,Application,Achievement
+1373,ravaler,to swallow back/clean,french_audio/ravaler.mp3,Bodily Function,Application,Achievement
+1374,paumer,to lose (slang),french_audio/paumer.mp3,Possession,Knowledge,Achievement
+1375,improviser,to improvise,french_audio/improviser.mp3,Creation/Change,Synthesis,Activity
+1376,bafouiller,to babbles,french_audio/bafouiller.mp3,Communication,Application,Activity
+1377,varier,to vary,french_audio/varier.mp3,Existence/State,Analysis,Activity
+1378,alimenter,to feed/supply,french_audio/alimenter.mp3,Bodily Function,Application,Activity
+1379,broyer,to grind/crush,french_audio/broyer.mp3,Physical Contact,Application,Accomplishment
+1380,ruminer,to ruminate,french_audio/ruminer.mp3,Cognition,Analysis,Activity
+1381,estomper,to blur/fade,french_audio/estomper.mp3,Perception,Analysis,Achievement
+1382,stationner,to park/stand,french_audio/stationner.mp3,Motion/Space,Knowledge,Activity
+1383,tresser,to braid/weave,french_audio/tresser.mp3,Creation/Change,Synthesis,Accomplishment
+1384,surplomber,to overhang,french_audio/surplomber.mp3,Existence/State,Knowledge,State
+1385,enquérir,to inquire,french_audio/enquerir.mp3,Communication,Analysis,Activity
+1386,écarquiller,to open wide (eyes),french_audio/ecarquiller.mp3,Bodily Function,Knowledge,Achievement
+1387,dénicher,to find/unearth,french_audio/denicher.mp3,Possession,Knowledge,Achievement
+1388,épater,to amaze/wow,french_audio/epater.mp3,Emotion/Affect,Evaluation,Achievement
+1389,initier,to initiate,french_audio/initier.mp3,Activity/Social,Application,Achievement
+1390,mouler,to mold,french_audio/mouler.mp3,Creation/Change,Application,Accomplishment
+1391,gouverner,to govern,french_audio/gouverner.mp3,Activity/Social,Application,Activity
+1392,abstenir,to abstain,french_audio/abstenir.mp3,Activity/Social,Evaluation,Achievement
+1393,chavirer,to capsize/turn over,french_audio/chavirer.mp3,Motion/Space,Knowledge,Achievement
+1394,reparler,to speak again,french_audio/reparler.mp3,Communication,Knowledge,Activity
+1395,bombarder,to bombard,french_audio/bombarder.mp3,Physical Contact,Application,Activity
+1396,camoufler,to camouflage,french_audio/camoufler.mp3,Physical Contact,Application,Achievement
+1397,améliorer,to improve,french_audio/ameliorer.mp3,Creation/Change,Analysis,Achievement
+1398,amplifier,to amplify,french_audio/amplifier.mp3,Perception,Analysis,Achievement
+1399,sillonner,to travel all over,french_audio/sillonner.mp3,Motion/Space,Application,Activity
+1400,enivrer,to intoxicate,french_audio/enivrer.mp3,Emotion/Affect,Knowledge,Achievement
+1401,contester,to contest/dispute,french_audio/contester.mp3,Communication,Evaluation,Activity
+1402,atteler,to harness/tackle,french_audio/atteler.mp3,Activity/Social,Application,Accomplishment
+1403,contraster,to contrast,french_audio/contraster.mp3,Cognition,Analysis,State
+1404,refroidir,to cool down,french_audio/refroidir.mp3,Creation/Change,Knowledge,Accomplishment
+1405,ensevelir,to bury/shroud,french_audio/ensevelir.mp3,Physical Contact,Application,Achievement
+1406,voter,to vote,french_audio/voter.mp3,Activity/Social,Evaluation,Achievement
+1407,vernir,to varnish,french_audio/vernir.mp3,Creation/Change,Application,Accomplishment
+1408,fausser,to distort/falsify,french_audio/fausser.mp3,Communication,Analysis,Achievement
+1409,chiner,to hunt for antiques/tease,french_audio/chiner.mp3,Activity/Social,Application,Activity
+1410,régir,to govern/rule,french_audio/regir.mp3,Activity/Social,Knowledge,State
+1411,patienter,to wait patiently,french_audio/patienter.mp3,Existence/State,Knowledge,Activity
+1412,copier,to copy,french_audio/copier.mp3,Communication,Knowledge,Activity
+1413,esquiver,to dodge/evade,french_audio/esquiver.mp3,Motion/Space,Application,Achievement
+1414,toiser,to eye up/measure,french_audio/toiser.mp3,Perception,Evaluation,Activity
+1415,saouler,to get drunk,french_audio/saouler.mp3,Bodily Function,Knowledge,Achievement
+1416,pétrifier,to petrify,french_audio/petrifier.mp3,Emotion/Affect,Knowledge,Achievement
+1417,assimiler,to assimilate,french_audio/assimiler.mp3,Cognition,Comprehension,Accomplishment
+1418,récompenser,to reward,french_audio/recompenser.mp3,Activity/Social,Evaluation,Achievement
+1419,piller,to loot/plunder,french_audio/piller.mp3,Activity/Social,Application,Activity
+1420,dégouliner,to drip/trickle,french_audio/degouliner.mp3,Motion/Space,Knowledge,Activity
+1421,rendormir,to go back to sleep,french_audio/rendormir.mp3,Bodily Function,Knowledge,Achievement
+1422,déraper,to skid/slip,french_audio/deraper.mp3,Motion/Space,Knowledge,Achievement
+1423,jaunir,to turn yellow,french_audio/jaunir.mp3,Existence/State,Knowledge,Accomplishment
+1424,visser,to screw in,french_audio/visser.mp3,Physical Contact,Application,Achievement
+1425,esclaffer,to burst out laughing,french_audio/esclaffer.mp3,Bodily Function,Knowledge,Achievement
+1426,mûrir,to ripen/mature,french_audio/murir.mp3,Existence/State,Knowledge,Accomplishment
+1427,expulser,to expel,french_audio/expulser.mp3,Activity/Social,Application,Achievement
+1428,modeler,to model/shape,french_audio/modeler.mp3,Creation/Change,Synthesis,Accomplishment
+1429,entonner,to burst into song,french_audio/entonner.mp3,Communication,Application,Achievement
+1430,déboutonner,to unbutton,french_audio/deboutonner.mp3,Physical Contact,Application,Achievement
+1431,crouler,to crumble/collapse (pressure/overload),french_audio/crouler.mp3,Existence/State,Knowledge,Achievement
+1432,happer,to snatch/grab,french_audio/happer.mp3,Physical Contact,Knowledge,Achievement
+1433,proférer,to utter,french_audio/proferer.mp3,Communication,Application,Achievement
+1434,amasser,to amass (usually intentionally),french_audio/amasser.mp3,Possession,Knowledge,Accomplishment
+1435,harceler,to harass,french_audio/harceler.mp3,Activity/Social,Application,Activity
+1436,implorer,to implore,french_audio/implorer.mp3,Communication,Application,Activity
+1437,substituer,to substitute,french_audio/substituer.mp3,Creation/Change,Analysis,Achievement
+1438,désarmer,to disarm,french_audio/desarmer.mp3,Activity/Social,Application,Achievement
+1439,transpercer,to pierce through,french_audio/transpercer.mp3,Physical Contact,Application,Achievement
+1440,recoucher,to put back to bed,french_audio/recoucher.mp3,Bodily Function,Application,Achievement
+1441,ébrouer,to snort/shake oneself,french_audio/ebrouer.mp3,Bodily Function,Knowledge,Activity
+1442,divorcer,to divorce,french_audio/divorcer.mp3,Activity/Social,Knowledge,Achievement
+1443,bouder,to pout/sulk,french_audio/bouder.mp3,Emotion/Affect,Knowledge,State
+1444,brancher,to plug in/connect,french_audio/brancher.mp3,Physical Contact,Application,Achievement
+1445,déplorer,to deplore,french_audio/deplorer.mp3,Emotion/Affect,Evaluation,State
+1446,souder,to weld/solder,french_audio/souder.mp3,Creation/Change,Application,Accomplishment
+1447,refluer,to ebb/flow back,french_audio/refluer.mp3,Motion/Space,Knowledge,Activity
+1448,gorger,to gorge/stuff,french_audio/gorger.mp3,Bodily Function,Application,Accomplishment
+1449,administrer,to administer,french_audio/administrer.mp3,Activity/Social,Application,Activity
+1450,devancer,to get ahead of,french_audio/devancer.mp3,Motion/Space,Analysis,Achievement
+1451,éliminer,to eliminate,french_audio/eliminer.mp3,Activity/Social,Analysis,Achievement
+1452,ébaucher,to sketch/outline,french_audio/ebaucher.mp3,Creation/Change,Synthesis,Accomplishment
+1453,tripoter,to fiddle with,french_audio/tripoter.mp3,Physical Contact,Knowledge,Activity
+1454,épouvanter,to terrify,french_audio/epouvanter.mp3,Emotion/Affect,Knowledge,Achievement
+1455,gicler,to spray/squirt,french_audio/gicler.mp3,Motion/Space,Knowledge,Achievement
+1456,allier,to ally/combine,french_audio/allier.mp3,Activity/Social,Synthesis,Achievement
+1457,griffonner,to scribble,french_audio/griffonner.mp3,Communication,Application,Activity
+1458,sautiller,to hop/skip,french_audio/sautiller.mp3,Motion/Space,Application,Activity
+1459,tanguer,to pitch/sway,french_audio/tanguer.mp3,Motion/Space,Knowledge,Activity
+1460,saper,to undermine,french_audio/saper.mp3,Activity/Social,Analysis,Activity
+1461,répercuter,to echo/pass on,french_audio/repercuter.mp3,Communication,Analysis,Achievement
+1462,renouer,to renew/tie again,french_audio/renouer.mp3,Activity/Social,Application,Achievement
+1463,essouffler,to put out of breath,french_audio/essouffler.mp3,Bodily Function,Knowledge,Achievement
+1464,rajeunir,to rejuvenate,french_audio/rajeunir.mp3,Existence/State,Knowledge,Accomplishment
+1465,affaiblir,to weaken,french_audio/affaiblir.mp3,Existence/State,Knowledge,Accomplishment
+1466,contredire,to contradict,french_audio/contredire.mp3,Communication,Evaluation,Activity
+1467,reconstruire,to rebuild,french_audio/reconstruire.mp3,Creation/Change,Synthesis,Accomplishment
+1468,soustraire,to subtract/remove,french_audio/soustraire.mp3,Cognition,Analysis,Achievement
+1469,fracasser,to smash,french_audio/fracasser.mp3,Physical Contact,Application,Achievement
+1470,simplifier,to simplify,french_audio/simplifier.mp3,Cognition,Synthesis,Achievement
+1471,attabler,to sit at the table,french_audio/attabler.mp3,Activity/Social,Knowledge,Achievement
+1472,trier,to sort,french_audio/trier.mp3,Cognition,Analysis,Activity
+1473,démonter,to dismantle,french_audio/demonter.mp3,Physical Contact,Analysis,Achievement
+1474,ressaisir,to pull oneself together,french_audio/ressaisir.mp3,Emotion/Affect,Application,Achievement
+1475,perler,to bead/drip,french_audio/perler.mp3,Motion/Space,Knowledge,Activity
+1476,dédier,to dedicate,french_audio/dedier.mp3,Communication,Application,Achievement
+1477,délaisser,to neglect/abandon,french_audio/delaisser.mp3,Activity/Social,Evaluation,State
+1478,boiter,to limp,french_audio/boiter.mp3,Motion/Space,Knowledge,Activity
+1479,caser,to fit in/place,french_audio/caser.mp3,Motion/Space,Application,Achievement
+1480,terrer,to earth up/hide,french_audio/terrer.mp3,Motion/Space,Knowledge,Achievement
+1481,gamberger,to mull over (slang),french_audio/gamberger.mp3,Cognition,Analysis,Activity
+1482,replacer,to put back,french_audio/replacer.mp3,Motion/Space,Application,Achievement
+1483,reporter,to postpone/report,french_audio/reporter.mp3,Communication,Application,Achievement
+1484,friser,to curl/border on,french_audio/friser.mp3,Physical Contact,Knowledge,State
+1485,égrener,to seed/list,french_audio/egrener.mp3,Creation/Change,Application,Activity
+1486,enserrer,to squeeze/enclose,french_audio/enserrer.mp3,Physical Contact,Application,State
+1487,maculer,to stain/smudge,french_audio/maculer.mp3,Physical Contact,Knowledge,Achievement
+1488,déambuler,to stroll/wander,french_audio/deambuler.mp3,Motion/Space,Application,Activity
+1489,assourdir,to deafen/muffle,french_audio/assourdir.mp3,Perception,Knowledge,Achievement
+1490,retrancher,to subtract/hide,french_audio/retrancher.mp3,Cognition,Analysis,Achievement
+1491,étourdir,to stun/daze,french_audio/etourdir.mp3,Perception,Knowledge,Achievement
+1492,approfondir,to deepen,french_audio/approfondir.mp3,Cognition,Analysis,Accomplishment
+1493,mijoter,to simmer/plot,french_audio/mijoter.mp3,Creation/Change,Application,Activity
+1494,inverser,to reverse,french_audio/inverser.mp3,Cognition,Analysis,Achievement
+1495,endurer,to endure,french_audio/endurer.mp3,Emotion/Affect,Knowledge,State
+1496,enrager,to be furious,french_audio/enrager.mp3,Emotion/Affect,Knowledge,State
+1497,escorter,to escort,french_audio/escorter.mp3,Activity/Social,Application,Activity
+1498,rétrécir,to shrink,french_audio/retrecir.mp3,Existence/State,Knowledge,Accomplishment
+1499,altérer,to alter/spoil,french_audio/alterer.mp3,Creation/Change,Analysis,Achievement
+1500,affluer,to flock/flow in,french_audio/affluer.mp3,Motion/Space,Knowledge,Activity

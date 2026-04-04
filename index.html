@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Audio Quiz</title>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; padding: 50px; background-color: #f4f4f9; }
+        #quiz-container { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); text-align: center; width: 100%; max-width: 400px; }
+        .setup-section { margin-bottom: 20px; border: 2px dashed #ccc; padding: 20px; border-radius: 8px; text-align: center; width: 100%; max-width: 400px; }
+        input[type="text"] { padding: 10px; width: 80%; border: 2px solid #ddd; border-radius: 5px; font-size: 16px; outline: none; margin-bottom: 10px; }
+        input[type="text"]:focus { border-color: #4A90E2; }
+        select { padding: 10px; width: 90%; margin: 10px 0; border-radius: 5px; border: 1px solid #ccc; font-size: 16px; }
+        button { padding: 10px 20px; margin: 10px 5px; cursor: pointer; border: none; border-radius: 5px; background: #4A90E2; color: white; font-weight: bold; }
+        button:hover { background: #357ABD; }
+        button:disabled { background: #ccc; cursor: not-allowed; }
+        #result { margin: 15px 0; font-weight: bold; min-height: 1.2em; }
+        .settings-bar { margin-bottom: 15px; font-size: 0.9em; color: #555; background: #eee; padding: 8px; border-radius: 8px; }
+        .hint-box { background: #eee; padding: 10px; border-radius: 8px; cursor: pointer; margin-bottom: 20px; color: #666; transition: all 0.2s; }
+        .hidden-hint { filter: blur(4px); user-select: none; }
+        .revealed-hint { filter: blur(0); color: #333; }
+        #status-msg { font-size: 0.8em; margin-top: 10px; color: #666; }
+    </style>
+</head>
+<body>
+
+    <h2>French Audio Quiz</h2>
+    
+    <div class="setup-section" id="setup">
+        <p><strong>Step 1:</strong> Load CSV</p>
+        <input type="file" id="csvFile" accept=".csv" />
+        
+        <div id="category-filter" style="margin-top: 20px; display:none; border-top: 1px solid #eee; pt-10px;">
+            <p><strong>Step 2:</strong> Select Category</p>
+            <select id="domainSelect">
+                <option value="all">All Domains</option>
+            </select>
+            <br>
+            <button onclick="startQuiz()" style="background:#28a745; width: 100%;">Start Practice</button>
+        </div>
+
+        <div id="status-msg">Searching for default.csv...</div>
+    </div>
+
+    <div id="quiz-container" style="display:none;">
+        <div class="settings-bar">
+            <label>
+                <input type="checkbox" id="toggleAlwaysShow" onchange="handleToggleChange()"> 
+                Always show translation
+            </label>
+        </div>
+        <div id="quiz"></div>
+    </div>
+
+<script>
+let allCards = [];      // The full master list from CSV
+let filteredCards = []; // The specific list for the current quiz
+let currentIndex = 0;
+let isChecked = false;
+let currentAudio = null;
+let alwaysShowTranslation = false;
+
+// 1. AUTO-LOAD default.csv ON PAGE LOAD
+window.addEventListener('DOMContentLoaded', () => {
+    fetch('default.csv')
+        .then(response => {
+            if (!response.ok) throw new Error("default.csv not found");
+            return response.text();
+        })
+        .then(text => {
+            allCards = parseCSV(text);
+            document.getElementById("status-msg").innerText = "Loaded default.csv successfully!";
+            populateCategoryMenu();
+        })
+        .catch(err => {
+            document.getElementById("status-msg").innerText = "No default.csv found. Please upload one.";
+        });
+});
+
+// 2. HANDLE MANUAL UPLOAD
+document.getElementById("csvFile").addEventListener("change", function(e) {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(event) {
+        allCards = parseCSV(event.target.result);
+        populateCategoryMenu();
+    };
+    reader.readAsText(file);
+});
+
+// 3. PARSE CSV
+function parseCSV(text) {
+    const lines = text.trim().split(/\r?\n/).filter(line => line.trim() !== "");
+    if (lines.length < 2) return [];
+    
+    // Convert headers to lowercase for easy mapping
+    const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+    
+    return lines.slice(1).map(line => {
+        const values = line.split(",");
+        const obj = {};
+        headers.forEach((h, i) => {
+            obj[h] = values[i] ? values[i].trim() : "";
+        });
+        return obj;
+    });
+}
+
+// 4. GENERATE CATEGORIES FROM DATA
+function populateCategoryMenu() {
+    const select = document.getElementById("domainSelect");
+    const filterDiv = document.getElementById("category-filter");
+    
+    // Reset options
+    select.innerHTML = '<option value="all">All Domains</option>';
+    
+    // Extract unique domains (matches column name "semantic domain" in parseCSV)
+    const domainKey = 'semantic domain'; 
+    const domains = [...new Set(allCards.map(card => card[domainKey]))].filter(d => d);
+    
+    domains.sort().forEach(domain => {
+        const opt = document.createElement("option");
+        opt.value = domain;
+        opt.textContent = domain;
+        select.appendChild(opt);
+    });
+
+    filterDiv.style.display = "block";
+}
+
+// 5. FILTER AND START
+function startQuiz() {
+    const selectedDomain = document.getElementById("domainSelect").value;
+    
+    if (selectedDomain === "all") {
+        filteredCards = [...allCards];
+    } else {
+        filteredCards = allCards.filter(card => card['semantic domain'] === selectedDomain);
+    }
+
+    if (filteredCards.length > 0) {
+        document.getElementById("setup").style.display = "none";
+        document.getElementById("quiz-container").style.display = "block";
+        showCard(0);
+    }
+}
+
+// 6. QUIZ LOGIC
+function showCard(index) {
+    if (index >= filteredCards.length) {
+        document.getElementById("quiz").innerHTML = "<h3>🎉 All done!</h3><button onclick='location.reload()'>Start Over</button>";
+        return;
+    }
+
+    currentIndex = index;
+    isChecked = false; 
+    const card = filteredCards[index];
+    const backDisabled = currentIndex === 0 ? "disabled" : "";
+    const hintClass = alwaysShowTranslation ? "revealed-hint" : "hidden-hint";
+
+    document.getElementById("quiz").innerHTML = `
+        <div style="font-size: 0.8em; color: #999; margin-bottom: 10px;">
+            Card ${currentIndex + 1} of ${filteredCards.length} | <strong>${card['semantic domain']}</strong>
+        </div>
+        <div class="hint-box" onclick="toggleHint(this)">
+            <span>Translation: </span>
+            <strong class="${hintClass}">${card.english || '???'}</strong>
+            <div style="font-size: 10px; margin-top: 5px; display: ${alwaysShowTranslation ? 'none' : 'block'}">(Click to reveal)</div>
+        </div>
+        
+        <button onclick="playAudio()">🔊 Replay Audio</button>
+        <br><br>
+        <input type="text" id="answer" placeholder="Type in French..." autocomplete="off">
+        <div id="result"></div>
+        
+        <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+            <button onclick="prevCard()" style="background:#666;" ${backDisabled}>← Back</button>
+            <button onclick="checkAnswer()">Check (Enter)</button>
+            <button onclick="nextCard()" style="background:#4A90E2;">Next →</button>
+        </div>
+    `;
+
+    setTimeout(() => { playAudio(); }, 100);
+
+    document.getElementById("answer").addEventListener("keypress", function(e) {
+        if (e.key === "Enter") {
+            if (!isChecked) checkAnswer();
+            else nextCard();
+        }
+    });
+    document.getElementById("answer").focus();
+}
+
+function handleToggleChange() {
+    alwaysShowTranslation = document.getElementById("toggleAlwaysShow").checked;
+    const hintText = document.querySelector('.hint-box strong');
+    if (hintText) {
+        if (alwaysShowTranslation) {
+            hintText.classList.remove('hidden-hint');
+            hintText.classList.add('revealed-hint');
+        } else if (!isChecked) {
+            hintText.classList.add('hidden-hint');
+            hintText.classList.remove('revealed-hint');
+        }
+    }
+}
+
+function toggleHint(element) {
+    const hintText = element.querySelector('strong');
+    hintText.classList.toggle('hidden-hint');
+    hintText.classList.toggle('revealed-hint');
+}
+
+function playAudio() {
+    const card = filteredCards[currentIndex];
+    if (card && card.audio) {
+        if (currentAudio) { currentAudio.pause(); currentAudio.currentTime = 0; }
+        currentAudio = new Audio(card.audio);
+        currentAudio.play().catch(e => console.error("Audio error:", e));
+    }
+}
+
+function checkAnswer() {
+    const input = document.getElementById("answer").value.trim().toLowerCase();
+    const correct = filteredCards[currentIndex].french.toLowerCase();
+    const resDiv = document.getElementById("result");
+
+    if (input === correct) {
+        resDiv.innerHTML = "<span style='color:green'>✅ Correct! (Enter for next)</span>";
+    } else {
+        resDiv.innerHTML = `<span style='color:red'>❌ Wrong: <strong>${filteredCards[currentIndex].french}</strong></span>`;
+    }
+    isChecked = true; 
+}
+
+function nextCard() { if (currentIndex < filteredCards.length - 1) showCard(currentIndex + 1); else showCard(filteredCards.length); }
+function prevCard() { if (currentIndex > 0) showCard(currentIndex - 1); }
+</script>
+
+</body>
+</html>
