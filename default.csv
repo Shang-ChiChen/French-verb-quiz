@@ -1040,8 +1040,7 @@ index,french,english,audio,Semantic Domain,Bloom's Category,Aspectual Class
 1039,puiser,to draw/dip,french_audio/puiser.mp3,Motion/Space,Application,Activity
 1040,désoler,to distress,french_audio/désoler.mp3,Emotion/Affect,Knowledge,State
 1041,incruster,to encrust/embed,french_audio/incruster.mp3,Physical Contact,Application,Achievement
-1042,débiter,"to cut up/debit  débiter un arbre
-débiter un compte de mille euros",french_audio/débiter.mp3,Possession,Application,Activity
+1042,débiter,to cut up/debit,french_audio/débiter.mp3,Possession,Application,Activity
 1043,compléter,to complete,french_audio/compléter.mp3,Aspectual,Application,Accomplishment
 1044,traquer,to track/hunt,french_audio/traquer.mp3,Activity/Social,Application,Activity
 1045,raccompagner,to see back,french_audio/raccompagner.mp3,Motion/Space,Application,Achievement
