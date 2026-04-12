@@ -129,9 +129,13 @@ function populateCategoryMenu() {
 
     filterDiv.style.display = "block";
 }
-
+function unlockAudio() {
+    const msg = new SpeechSynthesisUtterance("");
+    window.speechSynthesis.speak(msg);
+}
 // 5. FILTER AND START
 function startQuiz() {
+    unlockAudio(); // <--- Add this here
     const selectedDomain = document.getElementById("domainSelect").value;
     
     if (selectedDomain === "all") {
@@ -252,8 +256,10 @@ function speakWithBrowser(text) {
     msg.lang = 'fr-FR';
     window.speechSynthesis.speak(msg);
 }
+
+
 // Function to list voices in the console
-/*
+
 function logAvailableVoices() {
     // Get the initial list
     let voices = window.speechSynthesis.getVoices();
@@ -268,7 +274,7 @@ function logAvailableVoices() {
             local: v.localService 
         })));
     }
-}*/
+}
 
 // Most browsers trigger this when voices are ready
 window.speechSynthesis.onvoiceschanged = logAvailableVoices;
