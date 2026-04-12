@@ -221,20 +221,28 @@ function playAudio() {
     const card = filteredCards[currentIndex];
     if (!card) return;
 
-    // 1. Stop any current speech or audio
-    if (currentAudio) { currentAudio.pause(); }
     window.speechSynthesis.cancel(); 
 
-    // 2. Priority 1: Use the specific link from your CSV if it exists
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.src = "";
+        currentAudio.load();
+    }
+
     if (card.audio && card.audio.trim() !== "") {
-        currentAudio = new Audio(card.audio.trim());
+        currentAudio = new Audio();
+
+        // CACHE BUSTER: Add a unique timestamp to the end of the URL
+        // This makes Safari think "audio.mp3?v=12345" is a new file
+        const uniqueID = new Date().getTime();
+        const separator = card.audio.includes('?') ? '&' : '?';
+        currentAudio.src = card.audio.trim() + separator + "cachebust=" + uniqueID;
+        
         currentAudio.play().catch(e => {
-            console.warn("CSV link failed, falling back to Browser Voice.");
+            console.warn("Safari cache/process hang caught. Using TTS.");
             speakWithBrowser(card.french);
         });
-    } 
-    // 3. Priority 2: Use the Browser's built-in French voice
-    else {
+    } else {
         speakWithBrowser(card.french);
     }
 }
